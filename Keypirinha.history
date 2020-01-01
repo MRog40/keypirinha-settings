@@ -1,0 +1,5785 @@
+{
+   ".header" : {
+      "creator" : "Keypirinha v2.24 (06cbb5c)",
+      "creator_url" : "http://keypirinha.com/",
+      "format" : 102,
+      "modified" : "2019-12-31T23:42:23-0700",
+      "type" : "history"
+   },
+   "history" : [
+      {
+         "action" : null,
+         "item" : 7544475573990267934,
+         "label" : "Keypirinha: Configure",
+         "time" : "2019-11-11T10:30:06-0700"
+      },
+      {
+         "action" : null,
+         "item" : 7544475573990267934,
+         "label" : "Keypirinha: Configure",
+         "time" : "2019-11-11T11:18:33-0700"
+      },
+      {
+         "action" : null,
+         "item" : 17618165773288483912,
+         "label" : "http://lab_1.html",
+         "time" : "2019-11-11T11:54:58-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-11-11T11:57:33-0700"
+      },
+      {
+         "action" : null,
+         "item" : 18168495158365668489,
+         "label" : "Keypirinha: Console",
+         "time" : "2019-11-11T12:04:02-0700"
+      },
+      {
+         "action" : null,
+         "item" : 7544475573990267934,
+         "label" : "Keypirinha: Configure",
+         "time" : "2019-11-11T12:05:59-0700"
+      },
+      {
+         "action" : null,
+         "item" : 7544475573990267934,
+         "label" : "Keypirinha: Configure",
+         "time" : "2019-11-11T12:06:17-0700"
+      },
+      {
+         "action" : null,
+         "item" : 7606720524280093455,
+         "label" : "PackageControl: Update Package",
+         "time" : "2019-11-11T12:07:45-0700"
+      },
+      {
+         "action" : null,
+         "item" : 13903072334099508694,
+         "label" : "PackageControl: Install Package",
+         "time" : "2019-11-11T12:09:11-0700"
+      },
+      {
+         "action" : null,
+         "item" : 8812867945057659333,
+         "label" : "Unmute",
+         "time" : "2019-11-11T12:09:35-0700"
+      },
+      {
+         "action" : null,
+         "item" : 13903072334099508694,
+         "label" : "PackageControl: Install Package",
+         "time" : "2019-11-11T12:10:20-0700"
+      },
+      {
+         "action" : null,
+         "item" : 13903072334099508694,
+         "label" : "PackageControl: Install Package",
+         "time" : "2019-11-11T12:12:24-0700"
+      },
+      {
+         "action" : null,
+         "item" : 7544475573990267934,
+         "label" : "Keypirinha: Configure",
+         "time" : "2019-11-11T12:12:53-0700"
+      },
+      {
+         "action" : null,
+         "item" : 1972651255400930010,
+         "label" : "Keypirinha: Configure Package: EasySearch",
+         "time" : "2019-11-11T12:14:52-0700"
+      },
+      {
+         "action" : null,
+         "item" : 7544475573990267934,
+         "label" : "Keypirinha: Configure",
+         "time" : "2019-11-11T12:14:59-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-11-11T12:15:53-0700"
+      },
+      {
+         "action" : null,
+         "item" : 13903072334099508694,
+         "label" : "PackageControl: Install Package",
+         "time" : "2019-11-11T12:19:30-0700"
+      },
+      {
+         "action" : null,
+         "item" : 8974257820860083348,
+         "label" : "Search Everything",
+         "time" : "2019-11-11T12:23:38-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-11T12:24:28-0700"
+      },
+      {
+         "action" : null,
+         "item" : 8974257820860083348,
+         "label" : "Search Everything",
+         "time" : "2019-11-11T12:30:39-0700"
+      },
+      {
+         "action" : null,
+         "item" : 791006243674352562,
+         "label" : "Bookmark: CSC 215 program 2.pdf (Chrome)",
+         "time" : "2019-11-11T18:25:51-0700"
+      },
+      {
+         "action" : null,
+         "item" : 15412615756789257833,
+         "label" : "Windscribe",
+         "time" : "2019-11-11T18:26:06-0700"
+      },
+      {
+         "action" : null,
+         "item" : 9347891688062294810,
+         "label" : "Search Everything -> userChrome.css",
+         "time" : "2019-11-11T18:34:27-0700"
+      },
+      {
+         "action" : null,
+         "item" : 8466797651795104763,
+         "label" : "Lab_3",
+         "time" : "2019-11-11T18:38:45-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16275816703103513862,
+         "label" : "Everything: Search",
+         "time" : "2019-11-11T18:38:45-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-11-11T19:25:51-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-11-11T19:28:49-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-11T19:29:03-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-11-11T19:35:25-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-11-11T19:36:25-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-11-11T19:37:11-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-11-11T19:38:48-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-11-11T19:41:05-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-11-11T19:46:24-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-11-11T19:47:33-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-11-11T19:49:01-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-11-11T19:51:39-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-11-11T19:56:35-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-11-11T20:01:03-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-11-11T20:07:42-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-11-11T20:09:49-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-11-11T20:10:47-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-11-11T20:13:33-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-11-11T20:25:04-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-11-11T20:40:55-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-11-11T20:41:23-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-11-11T20:43:32-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-11-11T20:51:19-0700"
+      },
+      {
+         "action" : null,
+         "item" : 14620259319771498189,
+         "label" : "Discord",
+         "time" : "2019-11-11T20:56:23-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-11T21:44:53-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-11T22:35:59-0700"
+      },
+      {
+         "action" : null,
+         "item" : 8974257820860083348,
+         "label" : "Search Everything",
+         "time" : "2019-11-11T22:36:06-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-11T22:36:48-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-11-11T23:40:38-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-11T23:57:05-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-12T02:30:06-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-11-12T03:02:17-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-11-12T03:38:01-0700"
+      },
+      {
+         "action" : null,
+         "item" : 8974257820860083348,
+         "label" : "Search Everything",
+         "time" : "2019-11-12T03:43:56-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-11-12T03:47:46-0700"
+      },
+      {
+         "action" : null,
+         "item" : 15013513889903317253,
+         "label" : "Excel",
+         "time" : "2019-11-12T03:58:11-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-11-12T04:09:57-0700"
+      },
+      {
+         "action" : null,
+         "item" : 14216530343081565468,
+         "label" : "EE Calc",
+         "time" : "2019-11-12T04:10:49-0700"
+      },
+      {
+         "action" : null,
+         "item" : 14216530343081565468,
+         "label" : "EE Calc",
+         "time" : "2019-11-12T04:35:02-0700"
+      },
+      {
+         "action" : null,
+         "item" : 5188333080285107006,
+         "label" : "Windows App: Settings",
+         "time" : "2019-11-12T18:05:41-0700"
+      },
+      {
+         "action" : null,
+         "item" : 15013513889903317253,
+         "label" : "Excel",
+         "time" : "2019-11-12T19:04:20-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-12T20:26:29-0700"
+      },
+      {
+         "action" : null,
+         "item" : 5009700742060847699,
+         "label" : "LTspice XVII",
+         "time" : "2019-11-12T23:12:11-0700"
+      },
+      {
+         "action" : null,
+         "item" : 15831681918158908996,
+         "label" : "Lab_1",
+         "time" : "2019-11-13T05:27:08-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16275816703103513862,
+         "label" : "Everything: Search",
+         "time" : "2019-11-13T05:27:08-0700"
+      },
+      {
+         "action" : null,
+         "item" : 8974257820860083348,
+         "label" : "Search Everything",
+         "time" : "2019-11-13T05:27:18-0700"
+      },
+      {
+         "action" : null,
+         "item" : 6717878974789959477,
+         "label" : "gVim",
+         "time" : "2019-11-13T18:19:47-0700"
+      },
+      {
+         "action" : null,
+         "item" : 5515095196822692805,
+         "label" : "vim81",
+         "time" : "2019-11-13T18:26:14-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16275816703103513862,
+         "label" : "Everything: Search",
+         "time" : "2019-11-13T18:26:14-0700"
+      },
+      {
+         "action" : null,
+         "item" : 6717878974789959477,
+         "label" : "gVim",
+         "time" : "2019-11-13T18:28:12-0700"
+      },
+      {
+         "action" : null,
+         "item" : 12174817686166114820,
+         "label" : "userChrome.css",
+         "time" : "2019-11-13T18:30:28-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16275816703103513862,
+         "label" : "Everything: Search",
+         "time" : "2019-11-13T18:30:28-0700"
+      },
+      {
+         "action" : null,
+         "item" : 6717878974789959477,
+         "label" : "gVim",
+         "time" : "2019-11-13T18:33:12-0700"
+      },
+      {
+         "action" : null,
+         "item" : 6717878974789959477,
+         "label" : "gVim",
+         "time" : "2019-11-13T18:33:46-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-11-13T18:34:13-0700"
+      },
+      {
+         "action" : null,
+         "item" : 6717878974789959477,
+         "label" : "gVim",
+         "time" : "2019-11-13T18:36:52-0700"
+      },
+      {
+         "action" : null,
+         "item" : 6717878974789959477,
+         "label" : "gVim",
+         "time" : "2019-11-13T18:43:42-0700"
+      },
+      {
+         "action" : null,
+         "item" : 6717878974789959477,
+         "label" : "gVim",
+         "time" : "2019-11-13T18:45:55-0700"
+      },
+      {
+         "action" : null,
+         "item" : 6717878974789959477,
+         "label" : "gVim",
+         "time" : "2019-11-13T18:49:03-0700"
+      },
+      {
+         "action" : null,
+         "item" : 6717878974789959477,
+         "label" : "gVim",
+         "time" : "2019-11-13T18:49:17-0700"
+      },
+      {
+         "action" : null,
+         "item" : 6717878974789959477,
+         "label" : "gVim",
+         "time" : "2019-11-13T19:00:47-0700"
+      },
+      {
+         "action" : null,
+         "item" : 2550406842033719033,
+         "label" : "Git CMD (Deprecated)",
+         "time" : "2019-11-13T19:09:34-0700"
+      },
+      {
+         "action" : null,
+         "item" : 14314476790726239824,
+         "label" : "cmd.exe",
+         "time" : "2019-11-13T19:09:40-0700"
+      },
+      {
+         "action" : null,
+         "item" : 14688347958500096557,
+         "label" : "Cmder.exe",
+         "time" : "2019-11-13T19:10:22-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-13T19:17:20-0700"
+      },
+      {
+         "action" : null,
+         "item" : 5701840864183053185,
+         "label" : "Vim",
+         "time" : "2019-11-13T19:20:38-0700"
+      },
+      {
+         "action" : null,
+         "item" : 6717878974789959477,
+         "label" : "gVim",
+         "time" : "2019-11-13T19:20:43-0700"
+      },
+      {
+         "action" : null,
+         "item" : 6717878974789959477,
+         "label" : "gVim",
+         "time" : "2019-11-13T19:22:52-0700"
+      },
+      {
+         "action" : null,
+         "item" : 6717878974789959477,
+         "label" : "gVim",
+         "time" : "2019-11-13T19:23:22-0700"
+      },
+      {
+         "action" : null,
+         "item" : 6009374493486156408,
+         "label" : "HW4",
+         "time" : "2019-11-13T19:29:37-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16275816703103513862,
+         "label" : "Everything: Search",
+         "time" : "2019-11-13T19:29:37-0700"
+      },
+      {
+         "action" : null,
+         "item" : 8786830625888285669,
+         "label" : "Windows App: Calculator",
+         "time" : "2019-11-13T19:46:36-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-13T20:56:12-0700"
+      },
+      {
+         "action" : null,
+         "item" : 14409328543615058648,
+         "label" : "Python_Scripts",
+         "time" : "2019-11-13T21:00:15-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16275816703103513862,
+         "label" : "Everything: Search",
+         "time" : "2019-11-13T21:00:15-0700"
+      },
+      {
+         "action" : null,
+         "item" : 5188333080285107006,
+         "label" : "Windows App: Settings",
+         "time" : "2019-11-13T22:01:11-0700"
+      },
+      {
+         "action" : null,
+         "item" : 7544475573990267934,
+         "label" : "Keypirinha: Configure",
+         "time" : "2019-11-13T22:01:19-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-13T22:39:23-0700"
+      },
+      {
+         "action" : null,
+         "item" : 7606617191583777658,
+         "label" : "Windows App: Snip & Sketch",
+         "time" : "2019-11-13T22:44:35-0700"
+      },
+      {
+         "action" : null,
+         "item" : 5701840864183053185,
+         "label" : "Vim",
+         "time" : "2019-11-13T22:45:57-0700"
+      },
+      {
+         "action" : null,
+         "item" : 5701840864183053185,
+         "label" : "Vim",
+         "time" : "2019-11-13T22:49:30-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-11-14T07:18:03-0700"
+      },
+      {
+         "action" : null,
+         "item" : 6717878974789959477,
+         "label" : "gVim",
+         "time" : "2019-11-14T07:20:07-0700"
+      },
+      {
+         "action" : null,
+         "item" : 8974257820860083348,
+         "label" : "Search Everything",
+         "time" : "2019-11-14T07:21:50-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-11-14T14:57:02-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-14T15:00:43-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-14T15:17:34-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-11-14T16:03:48-0700"
+      },
+      {
+         "action" : null,
+         "item" : 6717878974789959477,
+         "label" : "gVim",
+         "time" : "2019-11-14T16:21:30-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-14T16:56:07-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-14T19:12:49-0700"
+      },
+      {
+         "action" : null,
+         "item" : 14620259319771498189,
+         "label" : "Discord",
+         "time" : "2019-11-14T23:56:13-0700"
+      },
+      {
+         "action" : null,
+         "item" : 15013513889903317253,
+         "label" : "Excel",
+         "time" : "2019-11-14T23:58:52-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-15T02:11:45-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-11-15T02:17:32-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-15T02:23:02-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-15T05:10:26-0700"
+      },
+      {
+         "action" : null,
+         "item" : 8974257820860083348,
+         "label" : "Search Everything",
+         "time" : "2019-11-15T05:10:42-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10365409782265850509,
+         "label" : "Senior_Design_1",
+         "time" : "2019-11-15T05:11:01-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16275816703103513862,
+         "label" : "Everything: Search",
+         "time" : "2019-11-15T05:11:01-0700"
+      },
+      {
+         "action" : null,
+         "item" : 15013513889903317253,
+         "label" : "Excel",
+         "time" : "2019-11-15T05:14:01-0700"
+      },
+      {
+         "action" : null,
+         "item" : 11624786330285292817,
+         "label" : "draw.io",
+         "time" : "2019-11-15T05:22:39-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-15T17:42:28-0700"
+      },
+      {
+         "action" : null,
+         "item" : 11624786330285292817,
+         "label" : "draw.io",
+         "time" : "2019-11-15T17:42:32-0700"
+      },
+      {
+         "action" : null,
+         "item" : 7641407039231934954,
+         "label" : "Mozilla Thunderbird",
+         "time" : "2019-11-15T18:02:53-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-11-15T18:50:04-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-15T18:50:21-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-15T18:57:26-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-11-15T18:58:16-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-11-15T19:04:00-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-15T19:07:01-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-15T19:10:59-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-15T19:12:44-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-11-15T19:13:08-0700"
+      },
+      {
+         "action" : null,
+         "item" : 6717878974789959477,
+         "label" : "gVim",
+         "time" : "2019-11-15T19:14:08-0700"
+      },
+      {
+         "action" : null,
+         "item" : 12174817686166114820,
+         "label" : "userChrome.css",
+         "time" : "2019-11-15T19:17:30-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16275816703103513862,
+         "label" : "Everything: Search",
+         "time" : "2019-11-15T19:17:30-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-11-15T19:18:34-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-15T19:21:23-0700"
+      },
+      {
+         "action" : null,
+         "item" : 14314476790726239824,
+         "label" : "cmd.exe",
+         "time" : "2019-11-15T19:22:54-0700"
+      },
+      {
+         "action" : null,
+         "item" : 6717878974789959477,
+         "label" : "gVim",
+         "time" : "2019-11-15T19:23:39-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-15T19:23:45-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-15T19:24:56-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10766316191698597773,
+         "label" : "p2410.cpp",
+         "time" : "2019-11-15T19:33:37-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16275816703103513862,
+         "label" : "Everything: Search",
+         "time" : "2019-11-15T19:33:37-0700"
+      },
+      {
+         "action" : null,
+         "item" : 647671958661884909,
+         "label" : "Control Panel",
+         "time" : "2019-11-15T19:36:04-0700"
+      },
+      {
+         "action" : null,
+         "item" : 14314476790726239824,
+         "label" : "cmd.exe",
+         "time" : "2019-11-15T19:39:26-0700"
+      },
+      {
+         "action" : null,
+         "item" : 14216530343081565468,
+         "label" : "EE Calc",
+         "time" : "2019-11-15T19:42:35-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-15T19:44:23-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10766316191698597773,
+         "label" : "p2410.cpp",
+         "time" : "2019-11-15T19:49:26-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16275816703103513862,
+         "label" : "Everything: Search",
+         "time" : "2019-11-15T19:49:26-0700"
+      },
+      {
+         "action" : null,
+         "item" : 11624786330285292817,
+         "label" : "draw.io",
+         "time" : "2019-11-15T19:50:45-0700"
+      },
+      {
+         "action" : null,
+         "item" : 11624786330285292817,
+         "label" : "draw.io",
+         "time" : "2019-11-15T20:53:37-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-11-15T20:54:42-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-15T21:28:10-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-11-15T21:28:19-0700"
+      },
+      {
+         "action" : null,
+         "item" : 11624786330285292817,
+         "label" : "draw.io",
+         "time" : "2019-11-15T21:30:47-0700"
+      },
+      {
+         "action" : null,
+         "item" : 14216530343081565468,
+         "label" : "EE Calc",
+         "time" : "2019-11-15T22:41:44-0700"
+      },
+      {
+         "action" : null,
+         "item" : 7641407039231934954,
+         "label" : "Mozilla Thunderbird",
+         "time" : "2019-11-16T05:23:25-0700"
+      },
+      {
+         "action" : null,
+         "item" : 7967729246799103067,
+         "label" : "amd64_microsoft-windows-s..-kf-commondownloads_31bf3856ad364e35_10.0.18362.1_none_c581465bcf77d606",
+         "time" : "2019-11-16T05:27:14-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16275816703103513862,
+         "label" : "Everything: Search",
+         "time" : "2019-11-16T05:27:14-0700"
+      },
+      {
+         "action" : null,
+         "item" : 9120842333467815951,
+         "label" : "Google Chrome",
+         "time" : "2019-11-16T05:27:54-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-11-16T05:28:18-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-16T05:38:02-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-16T06:13:20-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-17T00:22:50-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-11-17T00:35:39-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-17T14:34:35-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-11-17T15:28:44-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-18T01:36:54-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-18T17:09:11-0700"
+      },
+      {
+         "action" : null,
+         "item" : 6036495597840669908,
+         "label" : "Outlook",
+         "time" : "2019-11-18T17:25:13-0700"
+      },
+      {
+         "action" : null,
+         "item" : 5639043428604817008,
+         "label" : "Windows App: Weather",
+         "time" : "2019-11-18T17:44:34-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-18T17:47:01-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-18T17:52:44-0700"
+      },
+      {
+         "action" : null,
+         "item" : 1282108460725735560,
+         "label" : "MATLAB R2018b",
+         "time" : "2019-11-18T18:02:57-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-11-18T18:03:03-0700"
+      },
+      {
+         "action" : null,
+         "item" : 6036495597840669908,
+         "label" : "Outlook",
+         "time" : "2019-11-18T18:13:01-0700"
+      },
+      {
+         "action" : null,
+         "item" : 14314476790726239824,
+         "label" : "cmd.exe",
+         "time" : "2019-11-18T18:45:58-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-18T18:47:13-0700"
+      },
+      {
+         "action" : null,
+         "item" : 5009700742060847699,
+         "label" : "LTspice XVII",
+         "time" : "2019-11-18T21:25:23-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-18T21:25:50-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-18T21:31:06-0700"
+      },
+      {
+         "action" : null,
+         "item" : 5009700742060847699,
+         "label" : "LTspice XVII",
+         "time" : "2019-11-18T21:31:21-0700"
+      },
+      {
+         "action" : null,
+         "item" : 14620259319771498189,
+         "label" : "Discord",
+         "time" : "2019-11-18T23:04:11-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-19T01:28:35-0700"
+      },
+      {
+         "action" : null,
+         "item" : 7624679168805751833,
+         "label" : "Visual Studio 2017",
+         "time" : "2019-11-19T02:41:45-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-19T02:44:12-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-19T04:44:22-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-19T05:04:05-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-19T06:02:09-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-19T07:09:46-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-19T07:10:58-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-11-19T15:31:51-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-19T16:50:31-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-11-19T20:03:08-0700"
+      },
+      {
+         "action" : null,
+         "item" : 349058188509331328,
+         "label" : "output",
+         "time" : "2019-11-19T20:03:09-0700"
+      },
+      {
+         "action" : null,
+         "item" : 6036495597840669908,
+         "label" : "Outlook",
+         "time" : "2019-11-19T20:03:12-0700"
+      },
+      {
+         "action" : null,
+         "item" : 1114330960608558509,
+         "label" : "Engineering_Econ",
+         "time" : "2019-11-19T20:03:48-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16275816703103513862,
+         "label" : "Everything: Search",
+         "time" : "2019-11-19T20:03:48-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-19T21:17:20-0700"
+      },
+      {
+         "action" : null,
+         "item" : 14314476790726239824,
+         "label" : "cmd.exe",
+         "time" : "2019-11-19T21:27:30-0700"
+      },
+      {
+         "action" : null,
+         "item" : 14314476790726239824,
+         "label" : "cmd.exe",
+         "time" : "2019-11-19T21:27:43-0700"
+      },
+      {
+         "action" : null,
+         "item" : 14314476790726239824,
+         "label" : "cmd.exe",
+         "time" : "2019-11-19T21:28:09-0700"
+      },
+      {
+         "action" : null,
+         "item" : 14314476790726239824,
+         "label" : "cmd.exe",
+         "time" : "2019-11-19T21:28:47-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-19T21:49:09-0700"
+      },
+      {
+         "action" : null,
+         "item" : 8974257820860083348,
+         "label" : "Search Everything",
+         "time" : "2019-11-19T21:50:37-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-19T21:58:33-0700"
+      },
+      {
+         "action" : null,
+         "item" : 14216530343081565468,
+         "label" : "EE Calc",
+         "time" : "2019-11-19T22:19:44-0700"
+      },
+      {
+         "action" : null,
+         "item" : 14620259319771498189,
+         "label" : "Discord",
+         "time" : "2019-11-19T23:27:53-0700"
+      },
+      {
+         "action" : null,
+         "item" : 14314476790726239824,
+         "label" : "cmd.exe",
+         "time" : "2019-11-19T23:54:02-0700"
+      },
+      {
+         "action" : null,
+         "item" : 6036495597840669908,
+         "label" : "Outlook",
+         "time" : "2019-11-19T23:58:42-0700"
+      },
+      {
+         "action" : null,
+         "item" : 6036495597840669908,
+         "label" : "Outlook",
+         "time" : "2019-11-19T23:58:53-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-20T00:06:14-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-11-20T00:12:39-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-20T00:34:42-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-11-20T02:32:44-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-11-20T02:38:10-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-20T02:49:32-0700"
+      },
+      {
+         "action" : null,
+         "item" : 365323944292398725,
+         "label" : "Windows App: Xbox Game Bar",
+         "time" : "2019-11-20T03:12:35-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-11-20T03:12:40-0700"
+      },
+      {
+         "action" : null,
+         "item" : 11624786330285292817,
+         "label" : "draw.io",
+         "time" : "2019-11-20T03:15:59-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-11-20T05:18:06-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-20T05:26:06-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-11-20T05:42:20-0700"
+      },
+      {
+         "action" : null,
+         "item" : 14371432094428583963,
+         "label" : "verifier.exe",
+         "time" : "2019-11-20T07:05:43-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-20T07:05:49-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-20T07:47:35-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-20T07:50:41-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-11-20T07:52:00-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-20T07:52:29-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-20T17:55:01-0700"
+      },
+      {
+         "action" : null,
+         "item" : 9411692617139298795,
+         "label" : "EAGLE",
+         "time" : "2019-11-20T18:03:49-0700"
+      },
+      {
+         "action" : null,
+         "item" : 9411692617139298795,
+         "label" : "EAGLE",
+         "time" : "2019-11-20T18:09:17-0700"
+      },
+      {
+         "action" : null,
+         "item" : 6036495597840669908,
+         "label" : "Outlook",
+         "time" : "2019-11-20T18:10:53-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-20T19:12:26-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-20T19:23:06-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-20T19:23:38-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-20T22:00:28-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-20T22:09:29-0700"
+      },
+      {
+         "action" : null,
+         "item" : 5009700742060847699,
+         "label" : "LTspice XVII",
+         "time" : "2019-11-20T22:17:13-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-20T22:33:46-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-20T22:35:08-0700"
+      },
+      {
+         "action" : null,
+         "item" : 14314476790726239824,
+         "label" : "cmd.exe",
+         "time" : "2019-11-20T22:36:17-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-20T22:40:49-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-20T23:34:05-0700"
+      },
+      {
+         "action" : null,
+         "item" : 7624679168805751833,
+         "label" : "Visual Studio 2017",
+         "time" : "2019-11-20T23:38:26-0700"
+      },
+      {
+         "action" : null,
+         "item" : 14314476790726239824,
+         "label" : "cmd.exe",
+         "time" : "2019-11-20T23:56:07-0700"
+      },
+      {
+         "action" : null,
+         "item" : 9411692617139298795,
+         "label" : "EAGLE",
+         "time" : "2019-11-21T00:01:22-0700"
+      },
+      {
+         "action" : null,
+         "item" : 6036495597840669908,
+         "label" : "Outlook",
+         "time" : "2019-11-21T00:07:06-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-21T00:08:11-0700"
+      },
+      {
+         "action" : null,
+         "item" : 9411692617139298795,
+         "label" : "EAGLE",
+         "time" : "2019-11-21T00:10:37-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-21T00:11:28-0700"
+      },
+      {
+         "action" : null,
+         "item" : 972302855293512204,
+         "label" : "Microsoft Teams",
+         "time" : "2019-11-21T00:34:42-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16858395608094853375,
+         "label" : "Windows Settings: Configure Storage Sense or run it now (ms-settings:storagepolicies)",
+         "time" : "2019-11-21T01:45:47-0700"
+      },
+      {
+         "action" : null,
+         "item" : 14620259319771498189,
+         "label" : "Discord",
+         "time" : "2019-11-21T01:45:49-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-11-21T01:46:11-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-21T02:19:28-0700"
+      },
+      {
+         "action" : null,
+         "item" : 7624679168805751833,
+         "label" : "Visual Studio 2017",
+         "time" : "2019-11-21T02:52:54-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-21T03:20:37-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-21T03:23:57-0700"
+      },
+      {
+         "action" : null,
+         "item" : 7911073159203619638,
+         "label" : "AutoHotkey Setup",
+         "time" : "2019-11-21T03:40:46-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-21T03:48:51-0700"
+      },
+      {
+         "action" : null,
+         "item" : 5912713032315658932,
+         "label" : "Notepad",
+         "time" : "2019-11-21T06:47:50-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-21T07:03:48-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16858395608094853375,
+         "label" : "Windows Settings: Configure Storage Sense or run it now (ms-settings:storagepolicies)",
+         "time" : "2019-11-21T07:05:19-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-21T07:40:27-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-11-21T07:57:22-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-21T08:00:46-0700"
+      },
+      {
+         "action" : null,
+         "item" : 5829105006784368003,
+         "label" : "641893_Fortnite_KeyArt_withLogo_1080p.png",
+         "time" : "2019-11-21T08:01:11-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16275816703103513862,
+         "label" : "Everything: Search",
+         "time" : "2019-11-21T08:01:11-0700"
+      },
+      {
+         "action" : null,
+         "item" : 8974257820860083348,
+         "label" : "Search Everything",
+         "time" : "2019-11-21T08:01:16-0700"
+      },
+      {
+         "action" : null,
+         "item" : 14620259319771498189,
+         "label" : "Discord",
+         "time" : "2019-11-21T20:12:58-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-21T20:17:56-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-21T20:19:31-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-11-21T20:24:23-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-21T20:26:55-0700"
+      },
+      {
+         "action" : null,
+         "item" : 5599985641468794860,
+         "label" : "Word",
+         "time" : "2019-11-21T20:28:02-0700"
+      },
+      {
+         "action" : null,
+         "item" : 6036495597840669908,
+         "label" : "Outlook",
+         "time" : "2019-11-21T21:03:08-0700"
+      },
+      {
+         "action" : null,
+         "item" : 955032982543582859,
+         "label" : "OneNote 2016",
+         "time" : "2019-11-21T21:07:25-0700"
+      },
+      {
+         "action" : null,
+         "item" : 14216530343081565468,
+         "label" : "EE Calc",
+         "time" : "2019-11-21T21:16:45-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-22T00:40:19-0700"
+      },
+      {
+         "action" : null,
+         "item" : 14216530343081565468,
+         "label" : "EE Calc",
+         "time" : "2019-11-22T00:52:27-0700"
+      },
+      {
+         "action" : null,
+         "item" : 14216530343081565468,
+         "label" : "EE Calc",
+         "time" : "2019-11-22T01:41:34-0700"
+      },
+      {
+         "action" : null,
+         "item" : 5599985641468794860,
+         "label" : "Word",
+         "time" : "2019-11-22T05:15:29-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-22T19:24:24-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-22T19:26:54-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-22T20:57:56-0700"
+      },
+      {
+         "action" : null,
+         "item" : 7606617191583777658,
+         "label" : "Windows App: Snip & Sketch",
+         "time" : "2019-11-22T21:10:01-0700"
+      },
+      {
+         "action" : null,
+         "item" : 972302855293512204,
+         "label" : "Microsoft Teams",
+         "time" : "2019-11-22T21:12:25-0700"
+      },
+      {
+         "action" : null,
+         "item" : 14216530343081565468,
+         "label" : "EE Calc",
+         "time" : "2019-11-22T21:31:42-0700"
+      },
+      {
+         "action" : null,
+         "item" : 5009700742060847699,
+         "label" : "LTspice XVII",
+         "time" : "2019-11-22T22:42:00-0700"
+      },
+      {
+         "action" : null,
+         "item" : 7606617191583777658,
+         "label" : "Windows App: Snip & Sketch",
+         "time" : "2019-11-22T22:45:45-0700"
+      },
+      {
+         "action" : null,
+         "item" : 14620259319771498189,
+         "label" : "Discord",
+         "time" : "2019-11-23T01:01:27-0700"
+      },
+      {
+         "action" : null,
+         "item" : 14216530343081565468,
+         "label" : "EE Calc",
+         "time" : "2019-11-23T02:31:05-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-23T05:23:15-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-23T05:55:32-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-23T06:32:08-0700"
+      },
+      {
+         "action" : null,
+         "item" : 14620259319771498189,
+         "label" : "Discord",
+         "time" : "2019-11-23T06:37:03-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-11-23T06:41:15-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-23T06:44:56-0700"
+      },
+      {
+         "action" : null,
+         "item" : 14620259319771498189,
+         "label" : "Discord",
+         "time" : "2019-11-23T06:48:24-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-11-23T06:50:34-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-23T06:50:56-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-11-23T07:10:13-0700"
+      },
+      {
+         "action" : null,
+         "item" : 6036495597840669908,
+         "label" : "Outlook",
+         "time" : "2019-11-23T08:44:37-0700"
+      },
+      {
+         "action" : null,
+         "item" : 7723572351073344695,
+         "label" : "Logitech Gaming Software 9.02",
+         "time" : "2019-11-23T08:57:11-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-11-23T08:59:25-0700"
+      },
+      {
+         "action" : null,
+         "item" : 6036495597840669908,
+         "label" : "Outlook",
+         "time" : "2019-11-23T18:21:07-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-11-23T18:27:01-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-23T18:28:08-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-11-23T18:40:44-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-23T18:41:21-0700"
+      },
+      {
+         "action" : null,
+         "item" : 14620259319771498189,
+         "label" : "Discord",
+         "time" : "2019-11-23T20:23:33-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-11-23T21:56:35-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-11-23T22:09:22-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-23T23:35:40-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-11-24T02:46:35-0700"
+      },
+      {
+         "action" : null,
+         "item" : 14620259319771498189,
+         "label" : "Discord",
+         "time" : "2019-11-24T03:22:43-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-24T03:27:18-0700"
+      },
+      {
+         "action" : null,
+         "item" : 14620259319771498189,
+         "label" : "Discord",
+         "time" : "2019-11-24T04:37:34-0700"
+      },
+      {
+         "action" : null,
+         "item" : 7624679168805751833,
+         "label" : "Visual Studio 2017",
+         "time" : "2019-11-24T04:37:56-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-24T04:39:01-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-24T23:27:01-0700"
+      },
+      {
+         "action" : null,
+         "item" : 7624679168805751833,
+         "label" : "Visual Studio 2017",
+         "time" : "2019-11-24T23:27:03-0700"
+      },
+      {
+         "action" : null,
+         "item" : 972302855293512204,
+         "label" : "Microsoft Teams",
+         "time" : "2019-11-24T23:30:57-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-24T23:32:35-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-24T23:38:36-0700"
+      },
+      {
+         "action" : null,
+         "item" : 14620259319771498189,
+         "label" : "Discord",
+         "time" : "2019-11-25T00:27:00-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-11-25T00:29:33-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-25T00:34:42-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-25T06:15:38-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-25T16:27:17-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-11-25T16:31:06-0700"
+      },
+      {
+         "action" : null,
+         "item" : 6036495597840669908,
+         "label" : "Outlook",
+         "time" : "2019-11-25T16:40:53-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-11-25T17:56:54-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-11-25T18:01:20-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-25T18:01:38-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-25T18:13:44-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-25T18:21:09-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-25T19:24:49-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-11-25T19:24:51-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-11-25T20:46:07-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-11-25T21:55:27-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-25T21:55:33-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-11-25T22:00:22-0700"
+      },
+      {
+         "action" : null,
+         "item" : 9411692617139298795,
+         "label" : "EAGLE",
+         "time" : "2019-11-25T22:00:51-0700"
+      },
+      {
+         "action" : null,
+         "item" : 9411692617139298795,
+         "label" : "EAGLE",
+         "time" : "2019-11-25T22:03:19-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-25T22:12:14-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-25T22:23:21-0700"
+      },
+      {
+         "action" : null,
+         "item" : 9411692617139298795,
+         "label" : "EAGLE",
+         "time" : "2019-11-25T22:44:40-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-25T22:48:41-0700"
+      },
+      {
+         "action" : null,
+         "item" : 6036495597840669908,
+         "label" : "Outlook",
+         "time" : "2019-11-26T05:02:18-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-26T05:24:47-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-26T05:26:49-0700"
+      },
+      {
+         "action" : null,
+         "item" : 9411692617139298795,
+         "label" : "EAGLE",
+         "time" : "2019-11-26T05:31:10-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-26T05:33:48-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-11-26T05:34:46-0700"
+      },
+      {
+         "action" : null,
+         "item" : 9411692617139298795,
+         "label" : "EAGLE",
+         "time" : "2019-11-26T05:39:32-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-26T05:52:22-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10940821470731615391,
+         "label" : "Control Panel: Color Management",
+         "time" : "2019-11-26T06:09:51-0700"
+      },
+      {
+         "action" : null,
+         "item" : 17469639143296541180,
+         "label" : "ColorPic",
+         "time" : "2019-11-26T06:09:56-0700"
+      },
+      {
+         "action" : null,
+         "item" : 17469639143296541180,
+         "label" : "ColorPic",
+         "time" : "2019-11-26T06:10:49-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-11-26T06:27:53-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-11-26T06:38:40-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-11-26T06:57:24-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-11-26T06:58:15-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-11-26T07:16:58-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-11-26T07:18:16-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-11-26T07:18:44-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-11-26T07:47:26-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-11-26T07:48:28-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-11-26T07:57:27-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-11-26T07:57:53-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-26T07:58:48-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-26T08:06:24-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-11-26T08:06:43-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-11-26T17:24:00-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-11-26T17:39:55-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-26T17:43:00-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-11-26T17:44:43-0700"
+      },
+      {
+         "action" : null,
+         "item" : 14620259319771498189,
+         "label" : "Discord",
+         "time" : "2019-11-26T19:54:31-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-11-26T19:58:53-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-26T20:34:47-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-26T20:40:20-0700"
+      },
+      {
+         "action" : null,
+         "item" : 8943356161581543842,
+         "label" : "regedit.exe",
+         "time" : "2019-11-26T20:57:31-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-26T20:57:41-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-11-26T21:12:09-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-11-26T23:02:45-0700"
+      },
+      {
+         "action" : null,
+         "item" : 8974257820860083348,
+         "label" : "Search Everything",
+         "time" : "2019-11-27T00:21:14-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-11-27T00:21:23-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-27T00:21:27-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-27T00:44:43-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-11-27T00:49:23-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-27T01:40:36-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-11-27T01:44:11-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-11-27T02:00:16-0700"
+      },
+      {
+         "action" : null,
+         "item" : 9411692617139298795,
+         "label" : "EAGLE",
+         "time" : "2019-11-27T09:46:21-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-11-27T10:15:21-0700"
+      },
+      {
+         "action" : null,
+         "item" : 14391375159367498309,
+         "label" : "Windows Settings: VPN (ms-settings:network-vpn)",
+         "time" : "2019-11-28T23:57:30-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-30T03:58:07-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-11-30T04:03:38-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-11-30T04:53:07-0700"
+      },
+      {
+         "action" : null,
+         "item" : 14620259319771498189,
+         "label" : "Discord",
+         "time" : "2019-12-02T05:54:00-0700"
+      },
+      {
+         "action" : null,
+         "item" : 9120842333467815951,
+         "label" : "Google Chrome",
+         "time" : "2019-12-02T05:55:34-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-12-02T05:55:48-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-12-02T06:38:34-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-12-02T06:43:58-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-12-02T07:04:17-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-12-02T07:16:03-0700"
+      },
+      {
+         "action" : null,
+         "item" : 7095231884105470210,
+         "label" : "Steam",
+         "time" : "2019-12-02T07:37:49-0700"
+      },
+      {
+         "action" : null,
+         "item" : 7624679168805751833,
+         "label" : "Visual Studio 2017",
+         "time" : "2019-12-02T07:41:23-0700"
+      },
+      {
+         "action" : null,
+         "item" : 14620259319771498189,
+         "label" : "Discord",
+         "time" : "2019-12-02T19:28:05-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-12-02T19:31:40-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-12-02T19:32:34-0700"
+      },
+      {
+         "action" : null,
+         "item" : 7624679168805751833,
+         "label" : "Visual Studio 2017",
+         "time" : "2019-12-02T22:31:40-0700"
+      },
+      {
+         "action" : null,
+         "item" : 14391375159367498309,
+         "label" : "Windows Settings: VPN (ms-settings:network-vpn)",
+         "time" : "2019-12-02T22:32:27-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-12-02T22:33:07-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-12-02T22:33:45-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-12-02T23:28:29-0700"
+      },
+      {
+         "action" : null,
+         "item" : 6036495597840669908,
+         "label" : "Outlook",
+         "time" : "2019-12-02T23:40:29-0700"
+      },
+      {
+         "action" : null,
+         "item" : 7723572351073344695,
+         "label" : "Logitech Gaming Software 9.02",
+         "time" : "2019-12-02T23:53:53-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-12-03T00:49:13-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16011011289202306103,
+         "label" : "ArgusLab.exe",
+         "time" : "2019-12-03T00:56:29-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16011011289202306103,
+         "label" : "ArgusLab.exe",
+         "time" : "2019-12-03T01:19:58-0700"
+      },
+      {
+         "action" : null,
+         "item" : 972302855293512204,
+         "label" : "Microsoft Teams",
+         "time" : "2019-12-03T01:51:20-0700"
+      },
+      {
+         "action" : null,
+         "item" : 14620259319771498189,
+         "label" : "Discord",
+         "time" : "2019-12-03T05:14:01-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16011011289202306103,
+         "label" : "ArgusLab.exe",
+         "time" : "2019-12-03T05:27:42-0700"
+      },
+      {
+         "action" : null,
+         "item" : 7606617191583777658,
+         "label" : "Windows App: Snip & Sketch",
+         "time" : "2019-12-03T06:01:34-0700"
+      },
+      {
+         "action" : null,
+         "item" : 5599985641468794860,
+         "label" : "Word",
+         "time" : "2019-12-03T06:05:17-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16011011289202306103,
+         "label" : "ArgusLab.exe",
+         "time" : "2019-12-03T06:18:39-0700"
+      },
+      {
+         "action" : null,
+         "item" : 7606617191583777658,
+         "label" : "Windows App: Snip & Sketch",
+         "time" : "2019-12-03T06:21:38-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-12-03T06:22:24-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16011011289202306103,
+         "label" : "ArgusLab.exe",
+         "time" : "2019-12-03T18:05:27-0700"
+      },
+      {
+         "action" : null,
+         "item" : 14620259319771498189,
+         "label" : "Discord",
+         "time" : "2019-12-03T18:10:41-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-12-03T18:10:50-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-12-03T18:11:52-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16011011289202306103,
+         "label" : "ArgusLab.exe",
+         "time" : "2019-12-03T18:29:30-0700"
+      },
+      {
+         "action" : null,
+         "item" : 14216530343081565468,
+         "label" : "EE Calc",
+         "time" : "2019-12-03T20:55:42-0700"
+      },
+      {
+         "action" : null,
+         "item" : 1282108460725735560,
+         "label" : "MATLAB R2018b",
+         "time" : "2019-12-03T20:56:05-0700"
+      },
+      {
+         "action" : null,
+         "item" : 972302855293512204,
+         "label" : "Microsoft Teams",
+         "time" : "2019-12-03T20:57:37-0700"
+      },
+      {
+         "action" : null,
+         "item" : 14216530343081565468,
+         "label" : "EE Calc",
+         "time" : "2019-12-03T21:00:12-0700"
+      },
+      {
+         "action" : null,
+         "item" : 7606617191583777658,
+         "label" : "Windows App: Snip & Sketch",
+         "time" : "2019-12-03T21:04:09-0700"
+      },
+      {
+         "action" : null,
+         "item" : 14216530343081565468,
+         "label" : "EE Calc",
+         "time" : "2019-12-03T21:11:03-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-12-03T21:22:54-0700"
+      },
+      {
+         "action" : null,
+         "item" : 7606617191583777658,
+         "label" : "Windows App: Snip & Sketch",
+         "time" : "2019-12-03T21:27:48-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-12-03T21:32:32-0700"
+      },
+      {
+         "action" : null,
+         "item" : 11624786330285292817,
+         "label" : "draw.io",
+         "time" : "2019-12-03T21:39:27-0700"
+      },
+      {
+         "action" : null,
+         "item" : 1644154364802495292,
+         "label" : "MATLAB No GUI",
+         "time" : "2019-12-03T21:40:45-0700"
+      },
+      {
+         "action" : null,
+         "item" : 7606617191583777658,
+         "label" : "Windows App: Snip & Sketch",
+         "time" : "2019-12-03T21:50:48-0700"
+      },
+      {
+         "action" : null,
+         "item" : 7606617191583777658,
+         "label" : "Windows App: Snip & Sketch",
+         "time" : "2019-12-03T22:01:03-0700"
+      },
+      {
+         "action" : null,
+         "item" : 972302855293512204,
+         "label" : "Microsoft Teams",
+         "time" : "2019-12-03T22:11:13-0700"
+      },
+      {
+         "action" : null,
+         "item" : 7606617191583777658,
+         "label" : "Windows App: Snip & Sketch",
+         "time" : "2019-12-04T03:03:53-0700"
+      },
+      {
+         "action" : null,
+         "item" : 6036495597840669908,
+         "label" : "Outlook",
+         "time" : "2019-12-04T03:22:51-0700"
+      },
+      {
+         "action" : null,
+         "item" : 7606617191583777658,
+         "label" : "Windows App: Snip & Sketch",
+         "time" : "2019-12-04T08:06:39-0700"
+      },
+      {
+         "action" : null,
+         "item" : 14216530343081565468,
+         "label" : "EE Calc",
+         "time" : "2019-12-04T08:11:53-0700"
+      },
+      {
+         "action" : null,
+         "item" : 1644154364802495292,
+         "label" : "MATLAB No GUI",
+         "time" : "2019-12-04T18:01:02-0700"
+      },
+      {
+         "action" : null,
+         "item" : 1282108460725735560,
+         "label" : "MATLAB R2018b",
+         "time" : "2019-12-04T18:01:57-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-12-04T18:15:41-0700"
+      },
+      {
+         "action" : null,
+         "item" : 9120842333467815951,
+         "label" : "Google Chrome",
+         "time" : "2019-12-04T18:17:50-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-12-04T18:30:27-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-12-04T18:32:21-0700"
+      },
+      {
+         "action" : null,
+         "item" : 6036495597840669908,
+         "label" : "Outlook",
+         "time" : "2019-12-04T19:02:35-0700"
+      },
+      {
+         "action" : null,
+         "item" : 14216530343081565468,
+         "label" : "EE Calc",
+         "time" : "2019-12-04T19:49:17-0700"
+      },
+      {
+         "action" : null,
+         "item" : 7606617191583777658,
+         "label" : "Windows App: Snip & Sketch",
+         "time" : "2019-12-04T19:57:52-0700"
+      },
+      {
+         "action" : null,
+         "item" : 7606617191583777658,
+         "label" : "Windows App: Snip & Sketch",
+         "time" : "2019-12-04T20:52:48-0700"
+      },
+      {
+         "action" : null,
+         "item" : 7606617191583777658,
+         "label" : "Windows App: Snip & Sketch",
+         "time" : "2019-12-04T21:03:12-0700"
+      },
+      {
+         "action" : null,
+         "item" : 14216530343081565468,
+         "label" : "EE Calc",
+         "time" : "2019-12-04T21:08:48-0700"
+      },
+      {
+         "action" : null,
+         "item" : 7606617191583777658,
+         "label" : "Windows App: Snip & Sketch",
+         "time" : "2019-12-04T22:13:42-0700"
+      },
+      {
+         "action" : null,
+         "item" : 5552264975054424272,
+         "label" : "Windows Settings: Windows Insider Program (ms-settings:windowsinsider)",
+         "time" : "2019-12-04T22:36:12-0700"
+      },
+      {
+         "action" : null,
+         "item" : 7606617191583777658,
+         "label" : "Windows App: Snip & Sketch",
+         "time" : "2019-12-04T22:36:16-0700"
+      },
+      {
+         "action" : null,
+         "item" : 7606617191583777658,
+         "label" : "Windows App: Snip & Sketch",
+         "time" : "2019-12-04T22:40:08-0700"
+      },
+      {
+         "action" : null,
+         "item" : 972302855293512204,
+         "label" : "Microsoft Teams",
+         "time" : "2019-12-04T23:06:49-0700"
+      },
+      {
+         "action" : null,
+         "item" : 9120842333467815951,
+         "label" : "Google Chrome",
+         "time" : "2019-12-04T23:25:45-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-12-04T23:33:42-0700"
+      },
+      {
+         "action" : null,
+         "item" : 7624679168805751833,
+         "label" : "Visual Studio 2017",
+         "time" : "2019-12-04T23:33:51-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-12-04T23:47:15-0700"
+      },
+      {
+         "action" : null,
+         "item" : 972302855293512204,
+         "label" : "Microsoft Teams",
+         "time" : "2019-12-04T23:48:10-0700"
+      },
+      {
+         "action" : null,
+         "item" : 7624679168805751833,
+         "label" : "Visual Studio 2017",
+         "time" : "2019-12-05T00:31:29-0700"
+      },
+      {
+         "action" : null,
+         "item" : 14620259319771498189,
+         "label" : "Discord",
+         "time" : "2019-12-05T03:10:34-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-12-05T04:27:23-0700"
+      },
+      {
+         "action" : null,
+         "item" : 7606617191583777658,
+         "label" : "Windows App: Snip & Sketch",
+         "time" : "2019-12-05T06:47:28-0700"
+      },
+      {
+         "action" : null,
+         "item" : 7606617191583777658,
+         "label" : "Windows App: Snip & Sketch",
+         "time" : "2019-12-05T06:49:30-0700"
+      },
+      {
+         "action" : null,
+         "item" : 14216530343081565468,
+         "label" : "EE Calc",
+         "time" : "2019-12-05T06:51:23-0700"
+      },
+      {
+         "action" : null,
+         "item" : 972302855293512204,
+         "label" : "Microsoft Teams",
+         "time" : "2019-12-05T16:19:50-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-12-05T16:21:55-0700"
+      },
+      {
+         "action" : null,
+         "item" : 14216530343081565468,
+         "label" : "EE Calc",
+         "time" : "2019-12-05T16:47:54-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-12-05T16:49:05-0700"
+      },
+      {
+         "action" : null,
+         "item" : 972302855293512204,
+         "label" : "Microsoft Teams",
+         "time" : "2019-12-05T17:08:43-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-12-05T17:24:53-0700"
+      },
+      {
+         "action" : null,
+         "item" : 972302855293512204,
+         "label" : "Microsoft Teams",
+         "time" : "2019-12-05T17:28:26-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-12-05T17:45:40-0700"
+      },
+      {
+         "action" : null,
+         "item" : 5009700742060847699,
+         "label" : "LTspice XVII",
+         "time" : "2019-12-05T19:43:19-0700"
+      },
+      {
+         "action" : null,
+         "item" : 972302855293512204,
+         "label" : "Microsoft Teams",
+         "time" : "2019-12-05T19:59:23-0700"
+      },
+      {
+         "action" : null,
+         "item" : 972302855293512204,
+         "label" : "Microsoft Teams",
+         "time" : "2019-12-05T20:59:45-0700"
+      },
+      {
+         "action" : null,
+         "item" : 14620259319771498189,
+         "label" : "Discord",
+         "time" : "2019-12-05T22:41:26-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-12-06T00:31:46-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-12-06T01:08:10-0700"
+      },
+      {
+         "action" : null,
+         "item" : 7624679168805751833,
+         "label" : "Visual Studio 2017",
+         "time" : "2019-12-06T01:08:18-0700"
+      },
+      {
+         "action" : null,
+         "item" : 14391375159367498309,
+         "label" : "Windows Settings: VPN (ms-settings:network-vpn)",
+         "time" : "2019-12-06T01:17:47-0700"
+      },
+      {
+         "action" : null,
+         "item" : 972302855293512204,
+         "label" : "Microsoft Teams",
+         "time" : "2019-12-06T02:10:58-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-12-06T04:11:47-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-12-06T06:09:28-0700"
+      },
+      {
+         "action" : null,
+         "item" : 14216530343081565468,
+         "label" : "EE Calc",
+         "time" : "2019-12-06T06:42:18-0700"
+      },
+      {
+         "action" : null,
+         "item" : 14314476790726239824,
+         "label" : "cmd.exe",
+         "time" : "2019-12-06T07:31:18-0700"
+      },
+      {
+         "action" : null,
+         "item" : 14314476790726239824,
+         "label" : "cmd.exe",
+         "time" : "2019-12-06T07:31:25-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-12-06T09:11:17-0700"
+      },
+      {
+         "action" : null,
+         "item" : 6036495597840669908,
+         "label" : "Outlook",
+         "time" : "2019-12-06T16:33:36-0700"
+      },
+      {
+         "action" : null,
+         "item" : 7624679168805751833,
+         "label" : "Visual Studio 2017",
+         "time" : "2019-12-06T16:36:37-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-12-06T16:42:29-0700"
+      },
+      {
+         "action" : null,
+         "item" : 972302855293512204,
+         "label" : "Microsoft Teams",
+         "time" : "2019-12-06T16:57:24-0700"
+      },
+      {
+         "action" : null,
+         "item" : 972302855293512204,
+         "label" : "Microsoft Teams",
+         "time" : "2019-12-06T17:33:11-0700"
+      },
+      {
+         "action" : null,
+         "item" : 14620259319771498189,
+         "label" : "Discord",
+         "time" : "2019-12-06T18:05:14-0700"
+      },
+      {
+         "action" : null,
+         "item" : 6036495597840669908,
+         "label" : "Outlook",
+         "time" : "2019-12-06T19:19:24-0700"
+      },
+      {
+         "action" : null,
+         "item" : 6036495597840669908,
+         "label" : "Outlook",
+         "time" : "2019-12-06T19:36:19-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-12-06T22:03:17-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-12-06T22:09:21-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-12-06T23:25:27-0700"
+      },
+      {
+         "action" : null,
+         "item" : 972302855293512204,
+         "label" : "Microsoft Teams",
+         "time" : "2019-12-06T23:27:36-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-12-06T23:53:34-0700"
+      },
+      {
+         "action" : null,
+         "item" : 14620259319771498189,
+         "label" : "Discord",
+         "time" : "2019-12-07T00:45:04-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-12-07T02:19:17-0700"
+      },
+      {
+         "action" : null,
+         "item" : 8588745297052130257,
+         "label" : "Voicemeeter",
+         "time" : "2019-12-07T05:13:20-0700"
+      },
+      {
+         "action" : null,
+         "item" : 8588745297052130257,
+         "label" : "Voicemeeter",
+         "time" : "2019-12-07T05:15:49-0700"
+      },
+      {
+         "action" : null,
+         "item" : 647671958661884909,
+         "label" : "Control Panel",
+         "time" : "2019-12-07T05:29:28-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16351163244000251491,
+         "label" : "ASTRO Command Center",
+         "time" : "2019-12-07T06:08:27-0700"
+      },
+      {
+         "action" : null,
+         "item" : 9120842333467815951,
+         "label" : "Google Chrome",
+         "time" : "2019-12-07T06:35:22-0700"
+      },
+      {
+         "action" : null,
+         "item" : 9120842333467815951,
+         "label" : "Google Chrome",
+         "time" : "2019-12-07T06:57:37-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-12-07T07:09:37-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-12-07T18:30:54-0700"
+      },
+      {
+         "action" : null,
+         "item" : 9411692617139298795,
+         "label" : "EAGLE",
+         "time" : "2019-12-07T18:32:03-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-12-07T18:33:22-0700"
+      },
+      {
+         "action" : null,
+         "item" : 9411692617139298795,
+         "label" : "EAGLE",
+         "time" : "2019-12-07T18:34:37-0700"
+      },
+      {
+         "action" : null,
+         "item" : 9411692617139298795,
+         "label" : "EAGLE",
+         "time" : "2019-12-07T18:38:42-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-12-07T19:08:31-0700"
+      },
+      {
+         "action" : null,
+         "item" : 8588745297052130257,
+         "label" : "Voicemeeter",
+         "time" : "2019-12-07T19:11:14-0700"
+      },
+      {
+         "action" : null,
+         "item" : 14620259319771498189,
+         "label" : "Discord",
+         "time" : "2019-12-07T19:52:09-0700"
+      },
+      {
+         "action" : null,
+         "item" : 14620259319771498189,
+         "label" : "Discord",
+         "time" : "2019-12-07T20:10:27-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-12-07T20:10:51-0700"
+      },
+      {
+         "action" : null,
+         "item" : 14216530343081565468,
+         "label" : "EE Calc",
+         "time" : "2019-12-07T20:15:15-0700"
+      },
+      {
+         "action" : null,
+         "item" : 9120842333467815951,
+         "label" : "Google Chrome",
+         "time" : "2019-12-07T20:34:42-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-12-07T20:51:42-0700"
+      },
+      {
+         "action" : null,
+         "item" : 7606617191583777658,
+         "label" : "Windows App: Snip & Sketch",
+         "time" : "2019-12-07T21:08:48-0700"
+      },
+      {
+         "action" : null,
+         "item" : 7606617191583777658,
+         "label" : "Windows App: Snip & Sketch",
+         "time" : "2019-12-07T22:51:45-0700"
+      },
+      {
+         "action" : null,
+         "item" : 1284880712876238369,
+         "label" : "Keypirinha: Refresh Catalog: PuTTY",
+         "time" : "2019-12-07T23:46:29-0700"
+      },
+      {
+         "action" : null,
+         "item" : 1284880712876238369,
+         "label" : "Keypirinha: Refresh Catalog: PuTTY",
+         "time" : "2019-12-08T00:07:03-0700"
+      },
+      {
+         "action" : null,
+         "item" : 15730747501379585705,
+         "label" : "PuTTY",
+         "time" : "2019-12-08T00:07:06-0700"
+      },
+      {
+         "action" : null,
+         "item" : 15730747501379585705,
+         "label" : "PuTTY",
+         "time" : "2019-12-08T00:08:51-0700"
+      },
+      {
+         "action" : null,
+         "item" : 14216530343081565468,
+         "label" : "EE Calc",
+         "time" : "2019-12-08T00:49:56-0700"
+      },
+      {
+         "action" : null,
+         "item" : 14216530343081565468,
+         "label" : "EE Calc",
+         "time" : "2019-12-08T00:50:01-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-12-08T01:30:43-0700"
+      },
+      {
+         "action" : null,
+         "item" : 9120842333467815951,
+         "label" : "Google Chrome",
+         "time" : "2019-12-08T01:30:49-0700"
+      },
+      {
+         "action" : null,
+         "item" : 18342706781889114406,
+         "label" : "MicrosoftEdge.exe",
+         "time" : "2019-12-08T01:31:09-0700"
+      },
+      {
+         "action" : null,
+         "item" : 18342706781889114406,
+         "label" : "MicrosoftEdge.exe",
+         "time" : "2019-12-08T01:31:21-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-12-08T01:45:01-0700"
+      },
+      {
+         "action" : null,
+         "item" : 9120842333467815951,
+         "label" : "Google Chrome",
+         "time" : "2019-12-08T06:21:12-0700"
+      },
+      {
+         "action" : null,
+         "item" : 14620259319771498189,
+         "label" : "Discord",
+         "time" : "2019-12-08T17:24:03-0700"
+      },
+      {
+         "action" : null,
+         "item" : 9120842333467815951,
+         "label" : "Google Chrome",
+         "time" : "2019-12-08T17:26:23-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-12-08T17:26:33-0700"
+      },
+      {
+         "action" : null,
+         "item" : 9120842333467815951,
+         "label" : "Google Chrome",
+         "time" : "2019-12-08T18:57:18-0700"
+      },
+      {
+         "action" : null,
+         "item" : 972302855293512204,
+         "label" : "Microsoft Teams",
+         "time" : "2019-12-08T18:59:05-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-12-08T18:59:53-0700"
+      },
+      {
+         "action" : null,
+         "item" : 12432295092575719957,
+         "label" : "matlab.exe",
+         "time" : "2019-12-08T19:22:11-0700"
+      },
+      {
+         "action" : null,
+         "item" : 14216530343081565468,
+         "label" : "EE Calc",
+         "time" : "2019-12-08T21:16:16-0700"
+      },
+      {
+         "action" : null,
+         "item" : 7624679168805751833,
+         "label" : "Visual Studio 2017",
+         "time" : "2019-12-09T00:16:34-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-12-09T18:15:39-0700"
+      },
+      {
+         "action" : null,
+         "item" : 6036495597840669908,
+         "label" : "Outlook",
+         "time" : "2019-12-09T18:26:32-0700"
+      },
+      {
+         "action" : null,
+         "item" : 14216530343081565468,
+         "label" : "EE Calc",
+         "time" : "2019-12-09T18:29:52-0700"
+      },
+      {
+         "action" : null,
+         "item" : 7624679168805751833,
+         "label" : "Visual Studio 2017",
+         "time" : "2019-12-09T18:57:22-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-12-09T19:16:10-0700"
+      },
+      {
+         "action" : null,
+         "item" : 6036495597840669908,
+         "label" : "Outlook",
+         "time" : "2019-12-09T21:46:08-0700"
+      },
+      {
+         "action" : null,
+         "item" : 9120842333467815951,
+         "label" : "Google Chrome",
+         "time" : "2019-12-09T22:01:17-0700"
+      },
+      {
+         "action" : null,
+         "item" : 14620259319771498189,
+         "label" : "Discord",
+         "time" : "2019-12-09T23:17:37-0700"
+      },
+      {
+         "action" : null,
+         "item" : 7624679168805751833,
+         "label" : "Visual Studio 2017",
+         "time" : "2019-12-10T03:37:20-0700"
+      },
+      {
+         "action" : null,
+         "item" : 13537199116685634800,
+         "label" : "Control Panel: Default Programs",
+         "time" : "2019-12-10T04:03:34-0700"
+      },
+      {
+         "action" : null,
+         "item" : 9120842333467815951,
+         "label" : "Google Chrome",
+         "time" : "2019-12-10T08:06:25-0700"
+      },
+      {
+         "action" : null,
+         "item" : 9120842333467815951,
+         "label" : "Google Chrome",
+         "time" : "2019-12-10T08:11:10-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-12-10T08:29:30-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-12-10T08:31:54-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10940821470731615391,
+         "label" : "Control Panel: Color Management",
+         "time" : "2019-12-10T08:35:56-0700"
+      },
+      {
+         "action" : null,
+         "item" : 17469639143296541180,
+         "label" : "ColorPic",
+         "time" : "2019-12-10T08:36:02-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-12-10T08:37:51-0700"
+      },
+      {
+         "action" : null,
+         "item" : 9120842333467815951,
+         "label" : "Google Chrome",
+         "time" : "2019-12-10T18:36:01-0700"
+      },
+      {
+         "action" : null,
+         "item" : 14391375159367498309,
+         "label" : "Windows Settings: VPN (ms-settings:network-vpn)",
+         "time" : "2019-12-10T18:40:44-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-12-10T18:45:33-0700"
+      },
+      {
+         "action" : null,
+         "item" : 14620259319771498189,
+         "label" : "Discord",
+         "time" : "2019-12-10T18:57:56-0700"
+      },
+      {
+         "action" : null,
+         "item" : 1644154364802495292,
+         "label" : "MATLAB No GUI",
+         "time" : "2019-12-10T21:38:13-0700"
+      },
+      {
+         "action" : null,
+         "item" : 12432295092575719957,
+         "label" : "matlab.exe",
+         "time" : "2019-12-10T21:39:34-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-12-10T21:40:19-0700"
+      },
+      {
+         "action" : null,
+         "item" : 14216530343081565468,
+         "label" : "EE Calc",
+         "time" : "2019-12-10T22:18:44-0700"
+      },
+      {
+         "action" : null,
+         "item" : 6036495597840669908,
+         "label" : "Outlook",
+         "time" : "2019-12-10T22:22:42-0700"
+      },
+      {
+         "action" : null,
+         "item" : 14216530343081565468,
+         "label" : "EE Calc",
+         "time" : "2019-12-10T22:26:45-0700"
+      },
+      {
+         "action" : null,
+         "item" : 14216530343081565468,
+         "label" : "EE Calc",
+         "time" : "2019-12-10T22:29:46-0700"
+      },
+      {
+         "action" : null,
+         "item" : 7624679168805751833,
+         "label" : "Visual Studio 2017",
+         "time" : "2019-12-10T22:48:52-0700"
+      },
+      {
+         "action" : null,
+         "item" : 14620259319771498189,
+         "label" : "Discord",
+         "time" : "2019-12-11T00:09:45-0700"
+      },
+      {
+         "action" : null,
+         "item" : 6036495597840669908,
+         "label" : "Outlook",
+         "time" : "2019-12-11T00:22:54-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-12-11T00:50:06-0700"
+      },
+      {
+         "action" : null,
+         "item" : 5599985641468794860,
+         "label" : "Word",
+         "time" : "2019-12-11T01:10:42-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-12-11T01:42:13-0700"
+      },
+      {
+         "action" : null,
+         "item" : 14620259319771498189,
+         "label" : "Discord",
+         "time" : "2019-12-11T07:30:20-0700"
+      },
+      {
+         "action" : null,
+         "item" : 14620259319771498189,
+         "label" : "Discord",
+         "time" : "2019-12-11T20:50:03-0700"
+      },
+      {
+         "action" : null,
+         "item" : 9120842333467815951,
+         "label" : "Google Chrome",
+         "time" : "2019-12-11T20:51:01-0700"
+      },
+      {
+         "action" : null,
+         "item" : 9120842333467815951,
+         "label" : "Google Chrome",
+         "time" : "2019-12-12T01:12:51-0700"
+      },
+      {
+         "action" : null,
+         "item" : 9120842333467815951,
+         "label" : "Google Chrome",
+         "time" : "2019-12-12T02:17:54-0700"
+      },
+      {
+         "action" : null,
+         "item" : 14620259319771498189,
+         "label" : "Discord",
+         "time" : "2019-12-12T05:24:04-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-12-12T05:35:31-0700"
+      },
+      {
+         "action" : null,
+         "item" : 14620259319771498189,
+         "label" : "Discord",
+         "time" : "2019-12-12T06:41:14-0700"
+      },
+      {
+         "action" : null,
+         "item" : 9120842333467815951,
+         "label" : "Google Chrome",
+         "time" : "2019-12-12T17:19:35-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-12-12T17:23:56-0700"
+      },
+      {
+         "action" : null,
+         "item" : 9120842333467815951,
+         "label" : "Google Chrome",
+         "time" : "2019-12-12T18:43:38-0700"
+      },
+      {
+         "action" : null,
+         "item" : 7624679168805751833,
+         "label" : "Visual Studio 2017",
+         "time" : "2019-12-12T18:43:42-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-12-12T18:44:41-0700"
+      },
+      {
+         "action" : null,
+         "item" : 6337775740318181425,
+         "label" : "TI OS Downloader",
+         "time" : "2019-12-12T18:46:14-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-12-12T18:46:17-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-12-12T18:55:11-0700"
+      },
+      {
+         "action" : null,
+         "item" : 9120842333467815951,
+         "label" : "Google Chrome",
+         "time" : "2019-12-12T20:34:34-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-12-12T20:40:17-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-12-12T21:44:22-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-12-12T21:46:30-0700"
+      },
+      {
+         "action" : null,
+         "item" : 14620259319771498189,
+         "label" : "Discord",
+         "time" : "2019-12-12T22:27:32-0700"
+      },
+      {
+         "action" : null,
+         "item" : 9120842333467815951,
+         "label" : "Google Chrome",
+         "time" : "2019-12-12T22:28:35-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-12-12T23:13:04-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-12-13T02:14:00-0700"
+      },
+      {
+         "action" : null,
+         "item" : 9120842333467815951,
+         "label" : "Google Chrome",
+         "time" : "2019-12-13T02:47:09-0700"
+      },
+      {
+         "action" : null,
+         "item" : 9120842333467815951,
+         "label" : "Google Chrome",
+         "time" : "2019-12-13T06:46:59-0700"
+      },
+      {
+         "action" : null,
+         "item" : 9120842333467815951,
+         "label" : "Google Chrome",
+         "time" : "2019-12-13T08:44:20-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-12-13T18:28:50-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-12-13T18:30:24-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-12-13T18:42:07-0700"
+      },
+      {
+         "action" : null,
+         "item" : 14620259319771498189,
+         "label" : "Discord",
+         "time" : "2019-12-13T18:47:41-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-12-13T19:17:01-0700"
+      },
+      {
+         "action" : null,
+         "item" : 14620259319771498189,
+         "label" : "Discord",
+         "time" : "2019-12-13T19:22:31-0700"
+      },
+      {
+         "action" : null,
+         "item" : 10727653551925446987,
+         "label" : "Firefox",
+         "time" : "2019-12-13T20:17:43-0700"
+      },
+      {
+         "action" : null,
+         "item" : 14620259319771498189,
+         "label" : "Discord",
+         "time" : "2019-12-14T22:08:43-0700"
+      },
+      {
+         "action" : null,
+         "item" : 7095231884105470210,
+         "label" : "Steam",
+         "time" : "2019-12-15T01:32:46-0700"
+      },
+      {
+         "action" : null,
+         "item" : 7095231884105470210,
+         "label" : "Steam",
+         "time" : "2019-12-15T03:47:58-0700"
+      },
+      {
+         "action" : null,
+         "item" : 4379862513568556479,
+         "label" : "EVE Online",
+         "time" : "2019-12-15T04:25:30-0700"
+      },
+      {
+         "action" : null,
+         "item" : 7723572351073344695,
+         "label" : "Logitech Gaming Software 9.02",
+         "time" : "2019-12-15T04:27:31-0700"
+      },
+      {
+         "action" : null,
+         "item" : 11752593845974430206,
+         "label" : "Control Panel: Fujitsu Display Manager",
+         "time" : "2019-12-15T07:26:19-0700"
+      },
+      {
+         "action" : null,
+         "item" : 5188333080285107006,
+         "label" : "Windows App: Settings",
+         "time" : "2019-12-15T07:26:23-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-12-15T08:34:13-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-12-15T08:34:42-0700"
+      },
+      {
+         "action" : null,
+         "item" : 14620259319771498189,
+         "label" : "Discord",
+         "time" : "2019-12-15T21:00:19-0700"
+      },
+      {
+         "action" : null,
+         "item" : 9120842333467815951,
+         "label" : "Google Chrome",
+         "time" : "2019-12-15T22:51:04-0700"
+      },
+      {
+         "action" : null,
+         "item" : 14620259319771498189,
+         "label" : "Discord",
+         "time" : "2019-12-16T01:27:02-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-12-16T04:16:56-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-12-16T18:06:38-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-12-16T20:07:07-0700"
+      },
+      {
+         "action" : null,
+         "item" : 5009700742060847699,
+         "label" : "LTspice XVII",
+         "time" : "2019-12-16T20:21:05-0700"
+      },
+      {
+         "action" : null,
+         "item" : 8052067571604741788,
+         "label" : "Chrome Remote Desktop",
+         "time" : "2019-12-16T23:56:11-0700"
+      },
+      {
+         "action" : null,
+         "item" : 9120842333467815951,
+         "label" : "Google Chrome",
+         "time" : "2019-12-16T23:56:14-0700"
+      },
+      {
+         "action" : null,
+         "item" : 4379862513568556479,
+         "label" : "EVE Online",
+         "time" : "2019-12-17T00:06:49-0700"
+      },
+      {
+         "action" : null,
+         "item" : 9120842333467815951,
+         "label" : "Google Chrome",
+         "time" : "2019-12-17T00:59:59-0700"
+      },
+      {
+         "action" : null,
+         "item" : 14620259319771498189,
+         "label" : "Discord",
+         "time" : "2019-12-17T01:42:43-0700"
+      },
+      {
+         "action" : null,
+         "item" : 9120842333467815951,
+         "label" : "Google Chrome",
+         "time" : "2019-12-17T01:46:23-0700"
+      },
+      {
+         "action" : null,
+         "item" : 14620259319771498189,
+         "label" : "Discord",
+         "time" : "2019-12-17T02:09:01-0700"
+      },
+      {
+         "action" : null,
+         "item" : 7606617191583777658,
+         "label" : "Windows App: Snip & Sketch",
+         "time" : "2019-12-17T03:38:17-0700"
+      },
+      {
+         "action" : null,
+         "item" : 9120842333467815951,
+         "label" : "Google Chrome",
+         "time" : "2019-12-17T05:03:26-0700"
+      },
+      {
+         "action" : null,
+         "item" : 4379862513568556479,
+         "label" : "EVE Online",
+         "time" : "2019-12-17T05:04:20-0700"
+      },
+      {
+         "action" : null,
+         "item" : 9120842333467815951,
+         "label" : "Google Chrome",
+         "time" : "2019-12-17T05:22:04-0700"
+      },
+      {
+         "action" : null,
+         "item" : 9120842333467815951,
+         "label" : "Google Chrome",
+         "time" : "2019-12-17T05:40:14-0700"
+      },
+      {
+         "action" : null,
+         "item" : 9120842333467815951,
+         "label" : "Google Chrome",
+         "time" : "2019-12-17T06:30:30-0700"
+      },
+      {
+         "action" : null,
+         "item" : 9120842333467815951,
+         "label" : "Google Chrome",
+         "time" : "2019-12-17T06:43:41-0700"
+      },
+      {
+         "action" : null,
+         "item" : 9120842333467815951,
+         "label" : "Google Chrome",
+         "time" : "2019-12-17T19:44:12-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-12-17T19:54:32-0700"
+      },
+      {
+         "action" : null,
+         "item" : 9120842333467815951,
+         "label" : "Google Chrome",
+         "time" : "2019-12-17T20:31:50-0700"
+      },
+      {
+         "action" : null,
+         "item" : 9120842333467815951,
+         "label" : "Google Chrome",
+         "time" : "2019-12-17T20:58:37-0700"
+      },
+      {
+         "action" : null,
+         "item" : 9120842333467815951,
+         "label" : "Google Chrome",
+         "time" : "2019-12-17T21:07:18-0700"
+      },
+      {
+         "action" : null,
+         "item" : 9120842333467815951,
+         "label" : "Google Chrome",
+         "time" : "2019-12-17T22:08:27-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-12-17T23:57:08-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-12-18T00:27:50-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-12-18T00:52:12-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-12-18T00:55:18-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-12-18T07:57:05-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-12-18T08:00:31-0700"
+      },
+      {
+         "action" : null,
+         "item" : 9120842333467815951,
+         "label" : "Google Chrome",
+         "time" : "2019-12-18T08:01:10-0700"
+      },
+      {
+         "action" : null,
+         "item" : 9120842333467815951,
+         "label" : "Google Chrome",
+         "time" : "2019-12-18T17:38:21-0700"
+      },
+      {
+         "action" : null,
+         "item" : 14620259319771498189,
+         "label" : "Discord",
+         "time" : "2019-12-18T17:38:36-0700"
+      },
+      {
+         "action" : null,
+         "item" : 14620259319771498189,
+         "label" : "Discord",
+         "time" : "2019-12-18T17:47:10-0700"
+      },
+      {
+         "action" : null,
+         "item" : 9120842333467815951,
+         "label" : "Google Chrome",
+         "time" : "2019-12-18T18:21:02-0700"
+      },
+      {
+         "action" : null,
+         "item" : 9120842333467815951,
+         "label" : "Google Chrome",
+         "time" : "2019-12-18T21:41:50-0700"
+      },
+      {
+         "action" : null,
+         "item" : 14216530343081565468,
+         "label" : "EE Calc",
+         "time" : "2019-12-18T23:11:49-0700"
+      },
+      {
+         "action" : null,
+         "item" : 14620259319771498189,
+         "label" : "Discord",
+         "time" : "2019-12-19T01:57:39-0700"
+      },
+      {
+         "action" : null,
+         "item" : 15412615756789257833,
+         "label" : "Windscribe",
+         "time" : "2019-12-19T03:57:36-0700"
+      },
+      {
+         "action" : null,
+         "item" : 18116127969574596728,
+         "label" : "qBittorrent",
+         "time" : "2019-12-19T04:20:47-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-12-19T04:22:51-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-12-19T06:05:43-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-12-19T06:54:24-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-12-19T07:09:37-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-12-19T07:50:48-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-12-19T08:20:33-0700"
+      },
+      {
+         "action" : null,
+         "item" : 5947370969222276290,
+         "label" : "SaferVPN",
+         "time" : "2019-12-19T17:46:49-0700"
+      },
+      {
+         "action" : null,
+         "item" : 9120842333467815951,
+         "label" : "Google Chrome",
+         "time" : "2019-12-19T17:47:06-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-12-19T19:00:55-0700"
+      },
+      {
+         "action" : null,
+         "item" : 4238065748557332164,
+         "label" : "Control Panel: Sound",
+         "time" : "2019-12-19T20:22:59-0700"
+      },
+      {
+         "action" : null,
+         "item" : 5188333080285107006,
+         "label" : "Windows App: Settings",
+         "time" : "2019-12-19T20:24:10-0700"
+      },
+      {
+         "action" : null,
+         "item" : 18116127969574596728,
+         "label" : "qBittorrent",
+         "time" : "2019-12-19T20:35:01-0700"
+      },
+      {
+         "action" : null,
+         "item" : 9120842333467815951,
+         "label" : "Google Chrome",
+         "time" : "2019-12-19T21:18:48-0700"
+      },
+      {
+         "action" : null,
+         "item" : 14620259319771498189,
+         "label" : "Discord",
+         "time" : "2019-12-19T21:22:48-0700"
+      },
+      {
+         "action" : null,
+         "item" : 5160169735113741531,
+         "label" : "Uninstall SaferVPN",
+         "time" : "2019-12-19T21:43:35-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-12-20T16:50:10-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16068072376578948048,
+         "label" : "Paint",
+         "time" : "2019-12-23T21:53:29-0700"
+      },
+      {
+         "action" : null,
+         "item" : 5701840864183053185,
+         "label" : "Vim",
+         "time" : "2019-12-23T23:02:20-0700"
+      },
+      {
+         "action" : null,
+         "item" : 14620259319771498189,
+         "label" : "Discord",
+         "time" : "2019-12-24T01:38:01-0700"
+      },
+      {
+         "action" : null,
+         "item" : 14620259319771498189,
+         "label" : "Discord",
+         "time" : "2019-12-24T01:40:18-0700"
+      },
+      {
+         "action" : null,
+         "item" : 9120842333467815951,
+         "label" : "Google Chrome",
+         "time" : "2019-12-24T01:44:27-0700"
+      },
+      {
+         "action" : null,
+         "item" : 9120842333467815951,
+         "label" : "Google Chrome",
+         "time" : "2019-12-24T04:36:39-0700"
+      },
+      {
+         "action" : null,
+         "item" : 9120842333467815951,
+         "label" : "Google Chrome",
+         "time" : "2019-12-24T04:39:13-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-12-24T04:59:28-0700"
+      },
+      {
+         "action" : null,
+         "item" : 9120842333467815951,
+         "label" : "Google Chrome",
+         "time" : "2019-12-25T21:35:24-0700"
+      },
+      {
+         "action" : null,
+         "item" : 9120842333467815951,
+         "label" : "Google Chrome",
+         "time" : "2019-12-26T16:05:22-0700"
+      },
+      {
+         "action" : null,
+         "item" : 9120842333467815951,
+         "label" : "Google Chrome",
+         "time" : "2019-12-26T16:14:57-0700"
+      },
+      {
+         "action" : null,
+         "item" : 14620259319771498189,
+         "label" : "Discord",
+         "time" : "2019-12-26T17:11:12-0700"
+      },
+      {
+         "action" : null,
+         "item" : 14620259319771498189,
+         "label" : "Discord",
+         "time" : "2019-12-26T17:27:10-0700"
+      },
+      {
+         "action" : null,
+         "item" : 9120842333467815951,
+         "label" : "Google Chrome",
+         "time" : "2019-12-26T17:30:58-0700"
+      },
+      {
+         "action" : null,
+         "item" : 9120842333467815951,
+         "label" : "Google Chrome",
+         "time" : "2019-12-26T17:37:30-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-12-28T20:53:20-0700"
+      },
+      {
+         "action" : null,
+         "item" : 9120842333467815951,
+         "label" : "Google Chrome",
+         "time" : "2019-12-29T17:36:52-0700"
+      },
+      {
+         "action" : null,
+         "item" : 14620259319771498189,
+         "label" : "Discord",
+         "time" : "2019-12-29T17:43:05-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-12-30T00:18:35-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16047232439968146741,
+         "label" : "File Explorer",
+         "time" : "2019-12-30T00:18:44-0700"
+      },
+      {
+         "action" : null,
+         "item" : 9120842333467815951,
+         "label" : "Google Chrome",
+         "time" : "2019-12-30T00:18:54-0700"
+      },
+      {
+         "action" : null,
+         "item" : 14620259319771498189,
+         "label" : "Discord",
+         "time" : "2019-12-31T00:04:37-0700"
+      },
+      {
+         "action" : null,
+         "item" : 9120842333467815951,
+         "label" : "Google Chrome",
+         "time" : "2019-12-31T00:07:05-0700"
+      },
+      {
+         "action" : null,
+         "item" : 16351163244000251491,
+         "label" : "ASTRO Command Center",
+         "time" : "2019-12-31T01:18:04-0700"
+      },
+      {
+         "action" : null,
+         "item" : 14620259319771498189,
+         "label" : "Discord",
+         "time" : "2019-12-31T01:18:13-0700"
+      },
+      {
+         "action" : null,
+         "item" : 9120842333467815951,
+         "label" : "Google Chrome",
+         "time" : "2019-12-31T07:59:44-0700"
+      },
+      {
+         "action" : null,
+         "item" : 7095231884105470210,
+         "label" : "Steam",
+         "time" : "2019-12-31T19:45:09-0700"
+      },
+      {
+         "action" : null,
+         "item" : 9120842333467815951,
+         "label" : "Google Chrome",
+         "time" : "2019-12-31T19:51:02-0700"
+      },
+      {
+         "action" : null,
+         "item" : 7095231884105470210,
+         "label" : "Steam",
+         "time" : "2019-12-31T20:01:14-0700"
+      },
+      {
+         "action" : null,
+         "item" : 9120842333467815951,
+         "label" : "Google Chrome",
+         "time" : "2019-12-31T20:28:01-0700"
+      },
+      {
+         "action" : null,
+         "item" : 9120842333467815951,
+         "label" : "Google Chrome",
+         "time" : "2019-12-31T20:52:33-0700"
+      },
+      {
+         "action" : null,
+         "item" : 9120842333467815951,
+         "label" : "Google Chrome",
+         "time" : "2019-12-31T21:38:59-0700"
+      },
+      {
+         "action" : null,
+         "item" : 11624786330285292817,
+         "label" : "draw.io",
+         "time" : "2019-12-31T21:55:12-0700"
+      },
+      {
+         "action" : null,
+         "item" : 9120842333467815951,
+         "label" : "Google Chrome",
+         "time" : "2019-12-31T23:41:05-0700"
+      },
+      {
+         "action" : null,
+         "item" : 7544475573990267934,
+         "label" : "Keypirinha: Configure",
+         "time" : "2019-12-31T23:42:23-0700"
+      }
+   ],
+   "sets" : {
+      "actions" : [],
+      "items" : [
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 5829105006784368003,
+            "label" : "641893_Fortnite_KeyArt_withLogo_1080p.png",
+            "loop_on_suggest" : true,
+            "plugin" : "Everything.Everything",
+            "short_desc" : "",
+            "target" : "C:\\Users\\adm_tf\\AppData\\Local\\Intel\\CUIPromotions\\Images\\641893_Fortnite_KeyArt_withLogo_1080p.png"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 7967729246799103067,
+            "label" : "amd64_microsoft-windows-s..-kf-commondownloads_31bf3856ad364e35_10.0.18362.1_none_c581465bcf77d606",
+            "loop_on_suggest" : true,
+            "plugin" : "Everything.Everything",
+            "short_desc" : "",
+            "target" : "C:\\Windows\\WinSxS\\amd64_microsoft-windows-s..-kf-commondownloads_31bf3856ad364e35_10.0.18362.1_none_c581465bcf77d606"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 16011011289202306103,
+            "label" : "ArgusLab.exe",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.StartMenu",
+            "short_desc" : "Start Menu: Programs\\ArgusLab",
+            "target" : "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\ArgusLab\\ArgusLab.exe.lnk"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 16351163244000251491,
+            "label" : "ASTRO Command Center",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.StartMenu",
+            "short_desc" : "Start Menu: Programs\\Astro Gaming\\ASTRO Command Center",
+            "target" : "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Astro Gaming\\ASTRO Command Center\\ASTRO Command Center.lnk"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 7911073159203619638,
+            "label" : "AutoHotkey Setup",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.StartMenu",
+            "short_desc" : "Start Menu: Programs\\AutoHotkey",
+            "target" : "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\AutoHotkey\\AutoHotkey Setup.lnk"
+         },
+         {
+            "args_hint" : "forbidden",
+            "category" : "url",
+            "hit_hint" : "noargs",
+            "id" : 791006243674352562,
+            "label" : "Bookmark: CSC 215 program 2.pdf (Chrome)",
+            "loop_on_suggest" : false,
+            "plugin" : "Bookmarks.Bookmarks",
+            "short_desc" : "",
+            "target" : "file:///C:/Users/7258163/Downloads/CSC%20215%20program%202.pdf"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 8052067571604741788,
+            "label" : "Chrome Remote Desktop",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.StartMenu",
+            "short_desc" : "Start Menu: Programs\\Chrome Apps",
+            "target" : "C:\\Users\\7258163\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Chrome Apps\\Chrome Remote Desktop.lnk"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 14314476790726239824,
+            "label" : "cmd.exe",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.EnvPath",
+            "short_desc" : "",
+            "target" : "C:\\WINDOWS\\system32\\cmd.exe"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 14688347958500096557,
+            "label" : "Cmder.exe",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.EnvPath",
+            "short_desc" : "",
+            "target" : "C:\\cmder\\Cmder.exe"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 17469639143296541180,
+            "label" : "ColorPic",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.StartMenu",
+            "short_desc" : "Start Menu: Programs\\ColorPic 4.1",
+            "target" : "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\ColorPic 4.1\\ColorPic.lnk"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 647671958661884909,
+            "label" : "Control Panel",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.StartMenu",
+            "short_desc" : "Start Menu: Programs\\System Tools",
+            "target" : "C:\\Users\\7258163\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\System Tools\\Control Panel.lnk"
+         },
+         {
+            "args_hint" : "forbidden",
+            "category" : "reference",
+            "hit_hint" : "noargs",
+            "id" : 10940821470731615391,
+            "label" : "Control Panel: Color Management",
+            "loop_on_suggest" : false,
+            "plugin" : "ControlPanel.ControlPanel",
+            "short_desc" : "Change advanced color management settings for displays, scanners, and printers.",
+            "target" : "{B2C761C6-29BC-4f19-9251-E6195265BAF1}"
+         },
+         {
+            "args_hint" : "forbidden",
+            "category" : "reference",
+            "hit_hint" : "noargs",
+            "id" : 13537199116685634800,
+            "label" : "Control Panel: Default Programs",
+            "loop_on_suggest" : false,
+            "plugin" : "ControlPanel.ControlPanel",
+            "short_desc" : "Choose which programs you want Windows to use for activities like web browsing, editing photos, sending e-mail, and playing music.",
+            "target" : "{17cd9488-1228-4b2f-88ce-4298e93e0966}"
+         },
+         {
+            "args_hint" : "forbidden",
+            "category" : "reference",
+            "hit_hint" : "noargs",
+            "id" : 11752593845974430206,
+            "label" : "Control Panel: Fujitsu Display Manager",
+            "loop_on_suggest" : false,
+            "plugin" : "ControlPanel.ControlPanel",
+            "short_desc" : "",
+            "target" : "{AF3650C9-52F0-4BC4-AE39-6DDB67DAC509}"
+         },
+         {
+            "args_hint" : "forbidden",
+            "category" : "reference",
+            "hit_hint" : "noargs",
+            "id" : 4238065748557332164,
+            "label" : "Control Panel: Sound",
+            "loop_on_suggest" : false,
+            "plugin" : "ControlPanel.ControlPanel",
+            "short_desc" : "Configure your audio devices or change the sound scheme for your computer.",
+            "target" : "{F2DDFC82-8F12-4CDD-B7DC-D4FE1425AA4D}"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 14620259319771498189,
+            "label" : "Discord",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.StartMenu",
+            "short_desc" : "Start Menu: Programs\\Discord Inc",
+            "target" : "C:\\Users\\7258163\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Discord Inc\\Discord.lnk"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 11624786330285292817,
+            "label" : "draw.io",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.StartMenu",
+            "short_desc" : "Start Menu: Programs",
+            "target" : "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\draw.io.lnk"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 9411692617139298795,
+            "label" : "EAGLE",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.StartMenu",
+            "short_desc" : "Start Menu: Programs",
+            "target" : "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\EAGLE.lnk"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 14216530343081565468,
+            "label" : "EE Calc",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.StartMenu",
+            "short_desc" : "Start Menu: Programs",
+            "target" : "C:\\Users\\7258163\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\EE Calc.lnk"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 1114330960608558509,
+            "label" : "Engineering_Econ",
+            "loop_on_suggest" : true,
+            "plugin" : "Everything.Everything",
+            "short_desc" : "",
+            "target" : "C:\\Users\\7258163\\Documents\\School\\Engineering_Econ"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 4379862513568556479,
+            "label" : "EVE Online",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.StartMenu",
+            "short_desc" : "Start Menu: Programs\\Steam",
+            "target" : "C:\\Users\\7258163\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Steam\\EVE Online.url"
+         },
+         {
+            "args_hint" : "required",
+            "category" : "reference",
+            "hit_hint" : "noargs",
+            "id" : 16275816703103513862,
+            "label" : "Everything: Search",
+            "loop_on_suggest" : false,
+            "plugin" : "Everything.Everything",
+            "short_desc" : "Search a file/folder with Everything",
+            "target" : "search"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 15013513889903317253,
+            "label" : "Excel",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.StartMenu",
+            "short_desc" : "Start Menu: Programs",
+            "target" : "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Excel.lnk"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 16047232439968146741,
+            "label" : "File Explorer",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.StartMenu",
+            "short_desc" : "Start Menu: Programs\\System Tools",
+            "target" : "C:\\Users\\7258163\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\System Tools\\File Explorer.lnk"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 10727653551925446987,
+            "label" : "Firefox",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.StartMenu",
+            "short_desc" : "Start Menu: Programs",
+            "target" : "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Firefox.lnk"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 2550406842033719033,
+            "label" : "Git CMD (Deprecated)",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.StartMenu",
+            "short_desc" : "Start Menu: Programs\\Git",
+            "target" : "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Git\\Git CMD (Deprecated).lnk"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 9120842333467815951,
+            "label" : "Google Chrome",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.StartMenu",
+            "short_desc" : "Start Menu: Programs",
+            "target" : "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Google Chrome.lnk"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 6717878974789959477,
+            "label" : "gVim",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.StartMenu",
+            "short_desc" : "Start Menu: Programs\\Vim 8.1",
+            "target" : "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Vim 8.1\\gVim.lnk"
+         },
+         {
+            "args_hint" : "forbidden",
+            "category" : "url",
+            "hit_hint" : "noargs",
+            "id" : 17618165773288483912,
+            "label" : "http://lab_1.html",
+            "loop_on_suggest" : false,
+            "plugin" : "URL.URL",
+            "short_desc" : "Launch URL: http://lab_1.html",
+            "target" : "http://lab_1.html"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 6009374493486156408,
+            "label" : "HW4",
+            "loop_on_suggest" : true,
+            "plugin" : "Everything.Everything",
+            "short_desc" : "",
+            "target" : "C:\\Users\\7258163\\Documents\\School\\Feedback_Control_Systems\\Homework\\HW4"
+         },
+         {
+            "args_hint" : "forbidden",
+            "category" : "keyword",
+            "hit_hint" : "noargs",
+            "id" : 7544475573990267934,
+            "label" : "Keypirinha: Configure",
+            "loop_on_suggest" : false,
+            "plugin" : "Internal.About",
+            "short_desc" : "Edit Keypirinha's configuration file(s)",
+            "target" : "app_config"
+         },
+         {
+            "args_hint" : "forbidden",
+            "category" : "reference",
+            "hit_hint" : "noargs",
+            "id" : 1972651255400930010,
+            "label" : "Keypirinha: Configure Package: EasySearch",
+            "loop_on_suggest" : false,
+            "plugin" : "Internal.About",
+            "short_desc" : "Configure Package \"EasySearch\"",
+            "target" : "pack_config EasySearch"
+         },
+         {
+            "args_hint" : "forbidden",
+            "category" : "keyword",
+            "hit_hint" : "noargs",
+            "id" : 18168495158365668489,
+            "label" : "Keypirinha: Console",
+            "loop_on_suggest" : false,
+            "plugin" : "Internal.About",
+            "short_desc" : "Show Keypirinha's console window",
+            "target" : "console"
+         },
+         {
+            "args_hint" : "forbidden",
+            "category" : "reference",
+            "hit_hint" : "noargs",
+            "id" : 1284880712876238369,
+            "label" : "Keypirinha: Refresh Catalog: PuTTY",
+            "loop_on_suggest" : false,
+            "plugin" : "Internal.About",
+            "short_desc" : "Refresh the Catalog of Package \"PuTTY\"",
+            "target" : "pack_refresh PuTTY"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 15831681918158908996,
+            "label" : "Lab_1",
+            "loop_on_suggest" : true,
+            "plugin" : "Everything.Everything",
+            "short_desc" : "",
+            "target" : "C:\\Users\\7258163\\Documents\\School\\Feedback_Control_Systems\\Labs\\Lab_1"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 8466797651795104763,
+            "label" : "Lab_3",
+            "loop_on_suggest" : true,
+            "plugin" : "Everything.Everything",
+            "short_desc" : "",
+            "target" : "C:\\Users\\7258163\\Documents\\School\\Power_Electronics\\Labs\\Lab_3"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 7723572351073344695,
+            "label" : "Logitech Gaming Software 9.02",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.StartMenu",
+            "short_desc" : "Start Menu: Programs\\Logitech",
+            "target" : "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Logitech\\Logitech Gaming Software 9.02.lnk"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 5009700742060847699,
+            "label" : "LTspice XVII",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.StartMenu",
+            "short_desc" : "Start Menu: Start Menu",
+            "target" : "C:\\Users\\7258163\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\LTspice XVII.lnk"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 1644154364802495292,
+            "label" : "MATLAB No GUI",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.StartMenu",
+            "short_desc" : "Start Menu: Programs",
+            "target" : "C:\\Users\\7258163\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\MATLAB No GUI.lnk"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 1282108460725735560,
+            "label" : "MATLAB R2018b",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.StartMenu",
+            "short_desc" : "Start Menu: Programs\\MATLAB R2018b",
+            "target" : "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\MATLAB R2018b\\MATLAB R2018b.lnk"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 12432295092575719957,
+            "label" : "matlab.exe",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.EnvPath",
+            "short_desc" : "",
+            "target" : "C:\\Program Files\\MATLAB\\R2018b\\bin\\matlab.exe"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 972302855293512204,
+            "label" : "Microsoft Teams",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.StartMenu",
+            "short_desc" : "Start Menu: Programs\\Microsoft Corporation",
+            "target" : "C:\\Users\\7258163\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Corporation\\Microsoft Teams.lnk"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 18342706781889114406,
+            "label" : "MicrosoftEdge.exe",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.EnvPath",
+            "short_desc" : "",
+            "target" : "C:\\Users\\7258163\\AppData\\Local\\Microsoft\\WindowsApps\\MicrosoftEdge.exe"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 7641407039231934954,
+            "label" : "Mozilla Thunderbird",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.StartMenu",
+            "short_desc" : "Start Menu: Programs",
+            "target" : "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Mozilla Thunderbird.lnk"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 5912713032315658932,
+            "label" : "Notepad",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.StartMenu",
+            "short_desc" : "Start Menu: Programs\\Accessories",
+            "target" : "C:\\Users\\7258163\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Accessories\\Notepad.lnk"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 955032982543582859,
+            "label" : "OneNote 2016",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.StartMenu",
+            "short_desc" : "Start Menu: Programs",
+            "target" : "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\OneNote 2016.lnk"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 6036495597840669908,
+            "label" : "Outlook",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.StartMenu",
+            "short_desc" : "Start Menu: Programs",
+            "target" : "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Outlook.lnk"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 349058188509331328,
+            "label" : "output",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.Desktop",
+            "short_desc" : "Desktop: Desktop",
+            "target" : "C:\\Users\\7258163\\Desktop\\output.xml"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 10766316191698597773,
+            "label" : "p2410.cpp",
+            "loop_on_suggest" : true,
+            "plugin" : "Everything.Everything",
+            "short_desc" : "",
+            "target" : "C:\\Users\\7258163\\source\\repos\\csc215f19work\\p2410\\p2410.cpp"
+         },
+         {
+            "args_hint" : "required",
+            "category" : "#1001",
+            "hit_hint" : "noargs",
+            "id" : 13903072334099508694,
+            "label" : "PackageControl: Install Package",
+            "loop_on_suggest" : false,
+            "plugin" : "PackageControl.PackageControl",
+            "short_desc" : "Installs a new packages from the repositiory",
+            "target" : "install"
+         },
+         {
+            "args_hint" : "required",
+            "category" : "#1001",
+            "hit_hint" : "noargs",
+            "id" : 7606720524280093455,
+            "label" : "PackageControl: Update Package",
+            "loop_on_suggest" : false,
+            "plugin" : "PackageControl.PackageControl",
+            "short_desc" : "Updates already installed packages to the latest version",
+            "target" : "update"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 16068072376578948048,
+            "label" : "Paint",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.StartMenu",
+            "short_desc" : "Start Menu: Programs\\Accessories",
+            "target" : "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Accessories\\Paint.lnk"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 15730747501379585705,
+            "label" : "PuTTY",
+            "loop_on_suggest" : false,
+            "plugin" : "PuTTY.PuTTY",
+            "short_desc" : "",
+            "target" : "C:\\Program Files\\PuTTY\\PUTTY.EXE"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 14409328543615058648,
+            "label" : "Python_Scripts",
+            "loop_on_suggest" : true,
+            "plugin" : "Everything.Everything",
+            "short_desc" : "",
+            "target" : "C:\\Users\\7258163\\Documents\\Python_Scripts"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 18116127969574596728,
+            "label" : "qBittorrent",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.StartMenu",
+            "short_desc" : "Start Menu: Programs\\qBittorrent",
+            "target" : "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\qBittorrent\\qBittorrent.lnk"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 8943356161581543842,
+            "label" : "regedit.exe",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.EnvPath",
+            "short_desc" : "",
+            "target" : "C:\\WINDOWS\\regedit.exe"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 5947370969222276290,
+            "label" : "SaferVPN",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.StartMenu",
+            "short_desc" : "Start Menu: Programs\\SaferVPN",
+            "target" : "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\SaferVPN\\SaferVPN.lnk"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 8974257820860083348,
+            "label" : "Search Everything",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.StartMenu",
+            "short_desc" : "Start Menu: Programs\\Everything",
+            "target" : "C:\\Users\\7258163\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Everything\\Search Everything.lnk"
+         },
+         {
+            "args" : "userChrome.css",
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 9347891688062294810,
+            "label" : "Search Everything",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.StartMenu",
+            "short_desc" : "Start Menu: Programs\\Everything",
+            "target" : "C:\\Users\\7258163\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Everything\\Search Everything.lnk"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 10365409782265850509,
+            "label" : "Senior_Design_1",
+            "loop_on_suggest" : true,
+            "plugin" : "Everything.Everything",
+            "short_desc" : "",
+            "target" : "C:\\Users\\7258163\\Documents\\School\\Senior_Design_1"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 7095231884105470210,
+            "label" : "Steam",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.StartMenu",
+            "short_desc" : "Start Menu: Programs\\Steam",
+            "target" : "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Steam\\Steam.lnk"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 6337775740318181425,
+            "label" : "TI OS Downloader",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.StartMenu",
+            "short_desc" : "Start Menu: Programs\\TI Tools\\TI Connect",
+            "target" : "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\TI Tools\\TI Connect\\TI OS Downloader.lnk"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 5160169735113741531,
+            "label" : "Uninstall SaferVPN",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.StartMenu",
+            "short_desc" : "Start Menu: Programs\\SaferVPN",
+            "target" : "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\SaferVPN\\Uninstall SaferVPN.lnk"
+         },
+         {
+            "args_hint" : "forbidden",
+            "category" : "keyword",
+            "hit_hint" : "noargs",
+            "id" : 8812867945057659333,
+            "label" : "Unmute",
+            "loop_on_suggest" : false,
+            "plugin" : "VolumeControl.VolumeControl",
+            "short_desc" : "Mute/unmute the volume",
+            "target" : "volume:set:0"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 12174817686166114820,
+            "label" : "userChrome.css",
+            "loop_on_suggest" : true,
+            "plugin" : "Everything.Everything",
+            "short_desc" : "",
+            "target" : "C:\\Users\\7258163\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\t6ud0kzg.default-1573418558182\\chrome\\userChrome.css"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 14371432094428583963,
+            "label" : "verifier.exe",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.EnvPath",
+            "short_desc" : "",
+            "target" : "C:\\WINDOWS\\system32\\verifier.exe"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 5701840864183053185,
+            "label" : "Vim",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.StartMenu",
+            "short_desc" : "Start Menu: Programs\\Vim 8.1",
+            "target" : "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Vim 8.1\\Vim.lnk"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 5515095196822692805,
+            "label" : "vim81",
+            "loop_on_suggest" : true,
+            "plugin" : "Everything.Everything",
+            "short_desc" : "",
+            "target" : "C:\\Program Files (x86)\\Vim\\vim81"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 7624679168805751833,
+            "label" : "Visual Studio 2017",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.StartMenu",
+            "short_desc" : "Start Menu: Programs",
+            "target" : "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Visual Studio 2017.lnk"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 8588745297052130257,
+            "label" : "Voicemeeter",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.StartMenu",
+            "short_desc" : "Start Menu: Programs\\VB Audio\\Voicemeeter",
+            "target" : "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\VB Audio\\Voicemeeter\\Voicemeeter.LNK"
+         },
+         {
+            "args_hint" : "forbidden",
+            "category" : "cmdline",
+            "hit_hint" : "noargs",
+            "id" : 8786830625888285669,
+            "label" : "Windows App: Calculator",
+            "loop_on_suggest" : false,
+            "plugin" : "WindowsApps.WindowsApps",
+            "short_desc" : "Calculator",
+            "target" : "shell:AppsFolder\\Microsoft.WindowsCalculator_8wekyb3d8bbwe!App"
+         },
+         {
+            "args_hint" : "forbidden",
+            "category" : "cmdline",
+            "hit_hint" : "noargs",
+            "id" : 5188333080285107006,
+            "label" : "Windows App: Settings",
+            "loop_on_suggest" : false,
+            "plugin" : "WindowsApps.WindowsApps",
+            "short_desc" : "Change settings and customize how you use your computer.",
+            "target" : "shell:AppsFolder\\windows.immersivecontrolpanel_cw5n1h2txyewy!microsoft.windows.immersivecontrolpanel"
+         },
+         {
+            "args_hint" : "forbidden",
+            "category" : "cmdline",
+            "hit_hint" : "noargs",
+            "id" : 7606617191583777658,
+            "label" : "Windows App: Snip & Sketch",
+            "loop_on_suggest" : false,
+            "plugin" : "WindowsApps.WindowsApps",
+            "short_desc" : "Snip & Sketch",
+            "target" : "shell:AppsFolder\\Microsoft.ScreenSketch_8wekyb3d8bbwe!App"
+         },
+         {
+            "args_hint" : "forbidden",
+            "category" : "cmdline",
+            "hit_hint" : "noargs",
+            "id" : 5639043428604817008,
+            "label" : "Windows App: Weather",
+            "loop_on_suggest" : false,
+            "plugin" : "WindowsApps.WindowsApps",
+            "short_desc" : "Weather Windows app",
+            "target" : "shell:AppsFolder\\Microsoft.BingWeather_8wekyb3d8bbwe!App"
+         },
+         {
+            "args_hint" : "forbidden",
+            "category" : "cmdline",
+            "hit_hint" : "noargs",
+            "id" : 365323944292398725,
+            "label" : "Windows App: Xbox Game Bar",
+            "loop_on_suggest" : false,
+            "plugin" : "WindowsApps.WindowsApps",
+            "short_desc" : "Xbox Game Bar",
+            "target" : "shell:AppsFolder\\Microsoft.XboxGamingOverlay_8wekyb3d8bbwe!App"
+         },
+         {
+            "args_hint" : "forbidden",
+            "category" : "cmdline",
+            "hit_hint" : "noargs",
+            "id" : 16858395608094853375,
+            "label" : "Windows Settings: Configure Storage Sense or run it now (ms-settings:storagepolicies)",
+            "loop_on_suggest" : false,
+            "plugin" : "WindowsApps.ModernControlPanel",
+            "short_desc" : "Change how Storage Sense frees up space",
+            "target" : "ms-settings:storagepolicies"
+         },
+         {
+            "args_hint" : "forbidden",
+            "category" : "cmdline",
+            "hit_hint" : "noargs",
+            "id" : 14391375159367498309,
+            "label" : "Windows Settings: VPN (ms-settings:network-vpn)",
+            "loop_on_suggest" : false,
+            "plugin" : "WindowsApps.ModernControlPanel",
+            "short_desc" : "VPN settings",
+            "target" : "ms-settings:network-vpn"
+         },
+         {
+            "args_hint" : "forbidden",
+            "category" : "cmdline",
+            "hit_hint" : "noargs",
+            "id" : 5552264975054424272,
+            "label" : "Windows Settings: Windows Insider Program (ms-settings:windowsinsider)",
+            "loop_on_suggest" : false,
+            "plugin" : "WindowsApps.ModernControlPanel",
+            "short_desc" : "Windows Insider Program settings",
+            "target" : "ms-settings:windowsinsider"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 15412615756789257833,
+            "label" : "Windscribe",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.StartMenu",
+            "short_desc" : "Start Menu: Programs\\Windscribe",
+            "target" : "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Windscribe\\Windscribe.lnk"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 5599985641468794860,
+            "label" : "Word",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.StartMenu",
+            "short_desc" : "Start Menu: Programs",
+            "target" : "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Word.lnk"
+         }
+      ],
+      "terms" : [
+         {
+            "items" : [ 16011011289202306103 ],
+            "search" : "argus"
+         },
+         {
+            "items" : [ 16011011289202306103 ],
+            "search" : "argusl"
+         },
+         {
+            "items" : [ 16011011289202306103 ],
+            "search" : "arguslab"
+         },
+         {
+            "items" : [ 16011011289202306103 ],
+            "search" : "arguslab.exe"
+         },
+         {
+            "items" : [ 16351163244000251491 ],
+            "search" : "astro"
+         },
+         {
+            "items" : [ 7911073159203619638 ],
+            "search" : "autoho"
+         },
+         {
+            "items" : [ 8786830625888285669 ],
+            "search" : "calculator"
+         },
+         {
+            "items" : [ 9120842333467815951 ],
+            "search" : "chr"
+         },
+         {
+            "items" : [ 9120842333467815951 ],
+            "search" : "chro"
+         },
+         {
+            "items" : [ 9120842333467815951 ],
+            "search" : "chroe"
+         },
+         {
+            "items" : [ 8052067571604741788 ],
+            "search" : "chroem"
+         },
+         {
+            "items" : [ 9120842333467815951 ],
+            "search" : "chrom"
+         },
+         {
+            "items" : [ 9120842333467815951 ],
+            "search" : "chrome"
+         },
+         {
+            "items" : [ 14314476790726239824, 2550406842033719033 ],
+            "search" : "cmd"
+         },
+         {
+            "items" : [ 14688347958500096557 ],
+            "search" : "cmder"
+         },
+         {
+            "items" : [ 17469639143296541180 ],
+            "search" : "colo"
+         },
+         {
+            "items" : [ 10940821470731615391 ],
+            "search" : "color"
+         },
+         {
+            "items" : [ 17469639143296541180 ],
+            "search" : "colorpic"
+         },
+         {
+            "items" : [ 16351163244000251491 ],
+            "search" : "comma"
+         },
+         {
+            "items" : [ 7544475573990267934 ],
+            "search" : "Configure"
+         },
+         {
+            "items" : [ 1972651255400930010 ],
+            "search" : "configure package"
+         },
+         {
+            "items" : [ 647671958661884909 ],
+            "search" : "control"
+         },
+         {
+            "items" : [ 16858395608094853375 ],
+            "search" : "d genuwine"
+         },
+         {
+            "items" : [ 5639043428604817008 ],
+            "search" : "d weather"
+         },
+         {
+            "items" : [ 13537199116685634800 ],
+            "search" : "default"
+         },
+         {
+            "items" : [ 14620259319771498189 ],
+            "search" : "di"
+         },
+         {
+            "items" : [ 14620259319771498189 ],
+            "search" : "disc"
+         },
+         {
+            "items" : [ 14620259319771498189 ],
+            "search" : "disco"
+         },
+         {
+            "items" : [ 14620259319771498189 ],
+            "search" : "discor"
+         },
+         {
+            "items" : [ 11752593845974430206 ],
+            "search" : "display"
+         },
+         {
+            "items" : [ 6337775740318181425 ],
+            "search" : "down"
+         },
+         {
+            "items" : [ 11624786330285292817 ],
+            "search" : "draw"
+         },
+         {
+            "items" : [ 11624786330285292817 ],
+            "search" : "drawi"
+         },
+         {
+            "items" : [ 16858395608094853375 ],
+            "search" : "dusci"
+         },
+         {
+            "items" : [ 9411692617139298795 ],
+            "search" : "eagl"
+         },
+         {
+            "items" : [ 9411692617139298795 ],
+            "search" : "eagle"
+         },
+         {
+            "items" : [ 18342706781889114406 ],
+            "search" : "edge"
+         },
+         {
+            "items" : [ 14216530343081565468 ],
+            "search" : "ee"
+         },
+         {
+            "items" : [ 14216530343081565468 ],
+            "search" : "ee calc"
+         },
+         {
+            "items" : [ 4379862513568556479 ],
+            "search" : "eve"
+         },
+         {
+            "items" : [ 8974257820860083348 ],
+            "search" : "every"
+         },
+         {
+            "items" : [ 8974257820860083348 ],
+            "search" : "everythi"
+         },
+         {
+            "items" : [ 16275816703103513862 ],
+            "search" : "everythin"
+         },
+         {
+            "items" : [ 8974257820860083348 ],
+            "search" : "Everything"
+         },
+         {
+            "items" : [ 8974257820860083348 ],
+            "search" : "everytin"
+         },
+         {
+            "items" : [ 8974257820860083348 ],
+            "search" : "everytn"
+         },
+         {
+            "items" : [ 15013513889903317253 ],
+            "search" : "exce"
+         },
+         {
+            "items" : [ 15013513889903317253 ],
+            "search" : "excel"
+         },
+         {
+            "items" : [ 10727653551925446987 ],
+            "search" : "f"
+         },
+         {
+            "items" : [ 10727653551925446987 ],
+            "search" : "fi"
+         },
+         {
+            "items" : [ 14371432094428583963 ],
+            "search" : "fie"
+         },
+         {
+            "items" : [ 16047232439968146741 ],
+            "search" : "fil"
+         },
+         {
+            "items" : [ 16047232439968146741 ],
+            "search" : "file"
+         },
+         {
+            "items" : [ 10727653551925446987 ],
+            "search" : "fir"
+         },
+         {
+            "items" : [ 10727653551925446987 ],
+            "search" : "fire"
+         },
+         {
+            "items" : [ 10727653551925446987 ],
+            "search" : "firef"
+         },
+         {
+            "items" : [ 10727653551925446987 ],
+            "search" : "firefo"
+         },
+         {
+            "items" : [ 10727653551925446987 ],
+            "search" : "firefox"
+         },
+         {
+            "items" : [ 365323944292398725 ],
+            "search" : "game"
+         },
+         {
+            "items" : [ 6717878974789959477 ],
+            "search" : "gvim"
+         },
+         {
+            "items" : [ 16047232439968146741 ],
+            "search" : "ile"
+         },
+         {
+            "items" : [ 7544475573990267934 ],
+            "search" : "keyp"
+         },
+         {
+            "items" : [ 7544475573990267934 ],
+            "search" : "keypi"
+         },
+         {
+            "items" : [ 7544475573990267934 ],
+            "search" : "keypirinha"
+         },
+         {
+            "items" : [ 7544475573990267934 ],
+            "search" : "keypirinha confi"
+         },
+         {
+            "items" : [ 18168495158365668489 ],
+            "search" : "Keypirinha: Console"
+         },
+         {
+            "items" : [ 17618165773288483912 ],
+            "search" : "lab_1.html"
+         },
+         {
+            "items" : [ 7723572351073344695 ],
+            "search" : "log"
+         },
+         {
+            "items" : [ 7723572351073344695 ],
+            "search" : "logit"
+         },
+         {
+            "items" : [ 7723572351073344695 ],
+            "search" : "logte"
+         },
+         {
+            "items" : [ 5009700742060847699 ],
+            "search" : "ltspi"
+         },
+         {
+            "items" : [ 5009700742060847699 ],
+            "search" : "ltspice"
+         },
+         {
+            "items" : [ 12432295092575719957 ],
+            "search" : "matla"
+         },
+         {
+            "items" : [ 1644154364802495292, 1282108460725735560 ],
+            "search" : "matlab"
+         },
+         {
+            "items" : [ 1282108460725735560 ],
+            "search" : "matlab R"
+         },
+         {
+            "items" : [ 8812867945057659333 ],
+            "search" : "mute"
+         },
+         {
+            "items" : [ 5912713032315658932 ],
+            "search" : "note"
+         },
+         {
+            "items" : [ 5552264975054424272 ],
+            "search" : "nsip"
+         },
+         {
+            "items" : [ 955032982543582859 ],
+            "search" : "onenote"
+         },
+         {
+            "items" : [ 349058188509331328 ],
+            "search" : "out"
+         },
+         {
+            "items" : [ 6036495597840669908 ],
+            "search" : "outl"
+         },
+         {
+            "items" : [ 6036495597840669908 ],
+            "search" : "outlo"
+         },
+         {
+            "items" : [ 6036495597840669908 ],
+            "search" : "outloo"
+         },
+         {
+            "items" : [ 16068072376578948048 ],
+            "search" : "paint"
+         },
+         {
+            "items" : [ 791006243674352562 ],
+            "search" : "program2"
+         },
+         {
+            "items" : [ 15730747501379585705 ],
+            "search" : "putt"
+         },
+         {
+            "items" : [ 1284880712876238369 ],
+            "search" : "putty"
+         },
+         {
+            "items" : [ 18116127969574596728 ],
+            "search" : "qbit"
+         },
+         {
+            "items" : [ 8943356161581543842 ],
+            "search" : "reged"
+         },
+         {
+            "items" : [ 5160169735113741531, 5947370969222276290 ],
+            "search" : "safer"
+         },
+         {
+            "items" : [ 8974257820860083348 ],
+            "search" : "searc"
+         },
+         {
+            "items" : [ 5188333080285107006 ],
+            "search" : "sett"
+         },
+         {
+            "items" : [ 5188333080285107006 ],
+            "search" : "settings"
+         },
+         {
+            "items" : [ 7606617191583777658 ],
+            "search" : "snip"
+         },
+         {
+            "items" : [ 4238065748557332164 ],
+            "search" : "sound"
+         },
+         {
+            "items" : [ 7095231884105470210 ],
+            "search" : "steam"
+         },
+         {
+            "items" : [ 972302855293512204 ],
+            "search" : "team"
+         },
+         {
+            "items" : [ 972302855293512204 ],
+            "search" : "teams"
+         },
+         {
+            "items" : [ 7641407039231934954 ],
+            "search" : "thunder"
+         },
+         {
+            "items" : [ 7641407039231934954 ],
+            "search" : "thunderbi"
+         },
+         {
+            "items" : [ 18116127969574596728 ],
+            "search" : "torre"
+         },
+         {
+            "items" : [ 5701840864183053185 ],
+            "search" : "vim"
+         },
+         {
+            "items" : [ 7624679168805751833 ],
+            "search" : "visua"
+         },
+         {
+            "items" : [ 7624679168805751833 ],
+            "search" : "visual"
+         },
+         {
+            "items" : [ 7624679168805751833 ],
+            "search" : "visul"
+         },
+         {
+            "items" : [ 8588745297052130257 ],
+            "search" : "voice"
+         },
+         {
+            "items" : [ 14391375159367498309 ],
+            "search" : "vpn"
+         },
+         {
+            "items" : [ 15412615756789257833 ],
+            "search" : "windsc"
+         },
+         {
+            "items" : [ 15412615756789257833 ],
+            "search" : "windscribe"
+         },
+         {
+            "items" : [ 5599985641468794860 ],
+            "search" : "word"
+         }
+      ]
+   }
+}
